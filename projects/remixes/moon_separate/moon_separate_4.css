@@ -3,26 +3,24 @@ body {
 }
 
 h1 {
-  position:relative; top:70px; left:30px;
+  position:relative; top:140px;
   font-family:Gill Sans;
   font-size:;
   color:white;
-  text-align:left;
+  text-align:center;
 }
 
 h2 {
-  position:relative; top:63px; left:30px;
+  position:relative; top:130px;
   font-family:Gill Sans;
   color:white;
-  text-align:left;
+  text-align:center;
 }
-
-
 
 .p_zero {
   position:relative;
   top:160px;;
-  color:#5B5D62;
+  color:#27251F;
   text-align:center;
 }
 
@@ -30,41 +28,41 @@ h2 {
   position:relative;
   top:50px;
   left:70px;
-  color:#A09FA0;
+  color:#5B5D62;
 }
 
 .p_two{
   position:relative;
   top:-650px;
   left:-190px;
-  color:#A09FA0;
+  color:#5B5D62;
 }
 
 .p_three{
   position:relative;
   top:-600px;
   left:600px;
-  color:#A09FA0;
+  color:#5B5D62;
 }
 
 .p_four{
   position:relative;
   top:-550px;
   left:-500px;
-  color:#A09FA0;
+  color:#5B5D62;
 }
 
 .p_five{
   position:relative;
   top:-1750px;
   left:470px;
-  color:#A09FA0;
+  color:#5B5D62;
 }
 
 .p_six {
   position:relative;
   top:-1860px;;
-  color:white;
+  color:#A09FA0;
   text-align:center;
 }
 
@@ -72,251 +70,125 @@ h2 {
   position:relative;
   top:-1950px;
   left:-710px;
-  color:white;
+  color:#A09FA0;
 }
 
 .p_8{
   position:relative;
   top:-2050px;
   left:-190px;
-  color:white;
+  color:#A09FA0;
 }
 
 .p_9{
   position:relative;
   top:-2700px;
   left:600px;
-  color:white;
+  color:#A09FA0;
 }
 
 .p_10{
   position:relative;
   top:-2440px;
   left:470px;
-  color:white;
+  color:#A09FA0;
 }
-
 .p_11{
   position:relative;
-  top:-1750px;
-  left:470px;
-  color:#A09FA0;
+  top:-3400px;
+  left:-380px;
+  color:white;
 }
 
 .p_12{
   position:relative;
-  top:-600px;
-  left:600px;
-  color:#A09FA0;
+  top:-3150px;
+  left:-490px;
+  color:white;
 }
 
 .p_13{
   position:relative;
-  top:-550px;
-  left:-500px;
-  color:#A09FA0;
+  top:-3700px;
+  left:400px;
+  color:white;
 }
 
 .p_14{
   position:relative;
-  top:-1750px;
-  left:470px;
-  color:#A09FA0;
+  top:-3450px;
+  left:-40px;
+  color:white;
 }
 
-.star1 {
-  background-color:gray;
-  border-radius: 100%;
-  width:5px;
-  height:5px;
-  position:relative; top:80px; left:50px;;
 
+h1 {
+  position:relative; top:140px;
+  font-family:Gill Sans;
+  font-size:;
+  color:white;
+  text-align:center;
 }
 
-.star2 {
-  background-color:gray;
-  border-radius: 100%;
-  width:5px;
-  height:5px;
-  position:relative; top:200px; left:250px;;
-
+h2 {
+  position:relative; top:130px;
+  font-family:Gill Sans;
+  color:white;
+  text-align:center;
 }
 
-.star3 {
-  background-color:gray;
-  border-radius: 100%;
-  width:5px;
-  height:5px;
-  position:relative; bottom:80px; left:325px;;
 
+
+p {
+  position:relative; top:160px;;
+  color:white;
+  text-align:center;
 }
 
-.star4 {
-  background-color:gray;
-  border-radius: 100%;
-  width:5px;
-  height:5px;
-  position:relative; bottom:300px; left:350px;;
-
+.right {
+  width:50px;
+  height:50px;
+  position:fixed;
+  margin-top:310px;
+  margin-left:1360px;
 }
 
-.star5 {
-  background-color:gray;
-  border-radius: 100%;
-  width:5px;
-  height:5px;
-  position:relative; bottom:150px; left:140px;;
-
+.left {
+  width:50px;
+  height:50px;
+  position:fixed;
+  margin-top:310px;
+  margin-left:13px;
 }
 
-.star6 {
-  background-color:gray;
-  border-radius: 100%;
-  width:5px;
-  height:5px;
-  position:relative; bottom:360px; left:1000px;;
-
+.home {
+  position: relative;
+  display: inline-block;
+  margin: 0 auto;
+  -webkit-transition: all 0.5s ease-in-out;
+  width:50px;
+  height:50px;
+  position:fixed;
+  margin-top:310px;
+  margin-left:660px;
 }
 
-.star7 {
-  background-color:gray;
-  border-radius: 100%;
-  width:5px;
-  height:5px;
-  position:relative; bottom:-100px; left:1300px;;
-
+.home:hover {
+  border-radius: 30px;
+  width: 150px;
+  height: 150px;
+  margin-left:625px;
+  -webkit-transform: scale(2);
+  cursor: pointer;
 }
 
-.star8 {
-  background-color:gray;
-  border-radius: 100%;
-  width:5px;
-  height:5px;
-  position:relative; bottom:-140px; left:925px;;
+.home_text{
+  font-family:Gill Sans;
+  font-size:30px;
+  color:black;
+  margin-top:282px;
+  margin-left:667px;
+  position:fixed;
 
-}
-
-.star9 {
-  background-color:gray;
-  border-radius: 100%;
-  width:5px;
-  height:5px;
-  position:relative; bottom:-220px; left:650px;;
-
-}
-
-.star10 {
-  background-color:gray;
-  border-radius: 100%;
-  width:5px;
-  height:5px;
-  position:relative; bottom:400px; left:700px;;
-
-}
-.star11 {
-  background-color:gray;
-  border-radius: 100%;
-  width:5px;
-  height:5px;
-  position:relative; bottom:60px; left:1150px;;
-
-}
-
-.star12 {
-  background-color:gray;
-  border-radius: 100%;
-  width:5px;
-  height:5px;
-  position:relative; bottom:120px; left:1400px;;
-
-}
-
-.star13 {
-  background-color:gray;
-  border-radius: 100%;
-  width:5px;
-  height:5px;
-  position:relative; bottom:300px; left:1200px;;
-
-}
-
-.star14 {
-  background-color:gray;
-  border-radius: 100%;
-  width:5px;
-  height:5px;
-  position:relative; bottom:26px; left:750px;;
-
-}
-
-.star15 {
-  background-color:gray;
-  border-radius: 100%;
-  width:5px;
-  height:5px;
-  position:relative; bottom:400px; left:30px;;
-
-}
-
-.star16 {
-  background-color:gray;
-  border-radius: 100%;
-  width:5px;
-  height:5px;
-  position:relative; bottom:-220px; left:100px;;
-
-}
-
-.star17 {
-  background-color:gray;
-  border-radius: 100%;
-  width:5px;
-  height:5px;
-  position:relative; bottom:230px; left:800px;;
-
-}
-
-.star18 {
-  background-color:gray;
-  border-radius: 100%;
-  width:5px;
-  height:5px;
-  position:relative; bottom:0px; left:480px;;
-
-}
-
-.star19 {
-  background-color:gray;
-  border-radius: 100%;
-  width:5px;
-  height:5px;
-  position:relative; bottom:-190px; left:1120px;;
-
-}
-
-.star20 {
-  background-color:gray;
-  border-radius: 100%;
-  width:5px;
-  height:5px;
-  position:relative; bottom:230px; left:540px;;
-
-}
-
-.star21 {
-  background-color:gray;
-  border-radius: 100%;
-  width:5px;
-  height:5px;
-  position:relative; bottom:-10px; left:500px;;
-
-}
-
-.star22 {
-  background-color:gray;
-  border-radius: 100%;
-  width:5px;
-  height:5px;
-  position:relative; bottom:390px; left:300px;;
 }
 
