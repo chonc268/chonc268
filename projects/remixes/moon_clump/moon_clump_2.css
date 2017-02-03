@@ -3,7 +3,7 @@ body {
 }
 
 h1 {
-  position:relative; top:70px;
+  position:relative; top:140px;
   font-family:Gill Sans;
   font-size:;
   color:white;
@@ -11,46 +11,64 @@ h1 {
 }
 
 h2 {
-  position:relative; top:63px;
+  position:relative; top:130px;
   font-family:Gill Sans;
   color:white;
   text-align:center;
 }
 
 
-.part1 {
-  position:relative; top:90px;
-  font-family:Gill Sans;
+
+p {
+  position:relative; top:160px;;
   color:white;
   text-align:center;
-  line-height: 2.3;
-
 }
 
-.part2 {
-  position:relative; top:90px;
-  font-family:Gill Sans;
-  color:white;
-  text-align:center;
-  line-height: 2.3;
-
+.right {
+  width:50px;
+  height:50px;
+  position:fixed;
+  margin-top:310px;
+  margin-left:1360px;
 }
 
-.part3 {
-  position:relative; top:-82px;
-  font-family:Gill Sans;
-  color:white;
-  text-align:center;
-  line-height: 2.3;
-
+.left {
+  width:50px;
+  height:50px;
+  position:fixed;
+  margin-top:310px;
+  margin-left:13px;
 }
 
-.part4 {
-  position:relative; top:-97px;
+.home {
+  position: relative;
+  display: inline-block;
+  margin: 0 auto;
+  -webkit-transition: all 0.5s ease-in-out;
+  width:50px;
+  height:50px;
+  position:fixed;
+  margin-top:310px;
+  margin-left:660px;
+}
+
+.home:hover {
+  border-radius: 30px;
+  width: 150px;
+  height: 150px;
+  margin-left:625px;
+  -webkit-transform: scale(2);
+  cursor: pointer;
+}
+
+.home_text{
   font-family:Gill Sans;
-  color:white;
-  text-align:center;
-  line-height: 2.3;
+  font-size:30px;
+  color:black;
+  margin-top:282px;
+  margin-left:667px;
+  position:fixed;
 
 }
 
@@ -234,19 +252,10 @@ h2 {
 }
 
 .star21 {
-  background-color:gray;
+  background-color:black;
   border-radius: 100%;
-  width:5px;
-  height:5px;
-  position:relative; bottom:-10px; left:500px;;
+  width:700px;
+  height:700px;
+  position:fixed; bottom:20px; left:-10px;;
 
 }
-
-.star22 {
-  background-color:gray;
-  border-radius: 100%;
-  width:5px;
-  height:5px;
-  position:relative; bottom:390px; left:300px;;
-}
-

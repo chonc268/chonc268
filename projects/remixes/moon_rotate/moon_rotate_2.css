@@ -22,9 +22,67 @@ p {
   color:white;
   text-align:center;
   transform: rotate(90deg);
-
+}
+.home-cursor {
+  color: orange;
 }
 
+.home-cursor {
+  cursor: url(https://chonc268.github.io/projects/remixes/home.png), auto;
+}
+.right {
+  width:50px;
+  height:50px;
+  position:fixed;
+  margin-top:310px;
+  margin-left:1360px;
+}
+
+.left {
+  width:50px;
+  height:50px;
+  position:fixed;
+  margin-top:310px;
+  margin-left:13px;
+}
+
+.home {
+  position: relative;
+  display: inline-block;
+  margin: 0 auto;
+  -webkit-transition: all 0.5s ease-in-out;
+  width:50px;
+  height:50px;
+  position:fixed;
+  margin-top:310px;
+  margin-left:660px;
+}
+
+.home:hover {
+  border-radius: 30px;
+  width: 150px;
+  height: 150px;
+  margin-left:625px;
+  -webkit-transform: scale(2);
+  cursor: pointer;
+}
+
+.home_text{
+  font-family:Gill Sans;
+  font-size:30px;
+  color:black;
+  margin-top:282px;
+  margin-left:667px;
+  position:fixed;
+
+}
+.right {
+  width:50px;
+  height:50px;
+  position:fixed;
+  margin-top:310px;
+  margin-left:1360px;
+}
 .star1 {
   background-color:gray;
   border-radius: 100%;
