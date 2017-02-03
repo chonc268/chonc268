@@ -46,16 +46,26 @@ p {
   height:50px;
   position:fixed;
   margin-top:310px;
-  margin-left:680px;
+  margin-left:660px;
 }
 
 .home:hover {
   border-radius: 30px;
   width: 150px;
   height: 150px;
-  background-color: text="home";
-  -webkit-transform: scale(2.25);
+  margin-left:625px;
+  -webkit-transform: scale(2);
   cursor: pointer;
+}
+
+.home_text{
+  font-family:Gill Sans;
+  font-size:30px;
+  color:black;
+  margin-top:282px;
+  margin-left:667px;
+  position:fixed;
+
 }
 
 .star1 {
