@@ -23,6 +23,14 @@ p {
   text-align:center;
 }
 
+.home-cursor {
+  color: orange;
+}
+
+.home-cursor {
+  cursor: url(https://chonc268.github.io/projects/remixes/home.png), auto;
+}
+
 .home {
   position: relative;
   display: inline-block;
