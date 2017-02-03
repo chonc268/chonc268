@@ -1,37 +1,49 @@
+.cursor{
+  cursor: url(https://chonc268.github.io/projects/remixes/custom_cursor.png), auto;
+}
+
 .moon{
   width:1700px;
   height:1700px;
-  margin-top:-10px;
-  margin-left:-715px;
+  top:-100px;
+  left:-150px;
   position: fixed;
+  -webkit-transition: -webkit-transform 25s ease-in-out;
+          transition:         transform 25s ease-in-out;
+}
+
+.moon:hover {
+  -webkit-transform: rotate(360deg);
+          transform: rotate(360deg);
 }
 
 .rectangle{
   width:1500px;
   height:150px;
   background:black;
-  margin-top:500px;
+  margin-top:400px;
   margin-left:-50px;
   position:fixed;
 }
 
 .rectangle1{
   width:1500px;
-  height:150px;
+  height:170px;
   background:black;
-  margin-top:650px;
+  margin-top:630px;
   margin-left:-50px;
   position:fixed;
 }
 
 p {
   font-family: Gill Sans;
-  font-size:40px;
+  font-size:35px;
   text-align:center;
-  margin-top:30px;
+  top:670px;
+  color:white;
   margin-bottom:40px;
-  margin-left:10px;
-  position:none;
+  margin-left:-10px;
+  position:relative;
 }
 
 a {
@@ -41,7 +53,7 @@ a {
   text-align:center;
   color:white;
   left:140px;
-  top:615px;
+  top:640px;
   padding-left:100px;
   position:relative;
 }
@@ -50,8 +62,4 @@ a:hover {
   color:gray;
   text-align:center;
   text-decoration:none;
-}
-
-.cursor{
-  cursor: url(https://chonc268.github.io/projects/remixes/custom_cursor.png), auto;
 }
