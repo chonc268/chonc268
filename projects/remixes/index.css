@@ -10,7 +10,7 @@
   width:1500px;
   height:150px;
   background:black;
-  margin-top:600px;
+  margin-top:500px;
   margin-left:-50px;
   position:fixed;
 }
@@ -19,7 +19,7 @@
   width:1500px;
   height:150px;
   background:black;
-  margin-top:600px;
+  margin-top:650px;
   margin-left:-50px;
   position:fixed;
 }
@@ -39,9 +39,11 @@ a {
   text-decoration:none;
   font-size:20px;
   text-align:center;
-  color:black;
-  padding-left:40px;
-  line-height:1.5;
+  color:white;
+  left:140px;
+  top:615px;
+  padding-left:100px;
+  position:relative;
 }
 
 a:hover {
