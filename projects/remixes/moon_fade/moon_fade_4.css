@@ -51,7 +51,7 @@ p {
 
 .home:hover {
   border-radius: 30px;
-  width: 200px;
+  width: 150px;
   height: 150px;
   background-color: text="home";
   -webkit-transform: scale(2.25);
