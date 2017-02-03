@@ -1,13 +1,22 @@
 h1 {
   text-align: center;
   font-family: Gill Sans;
-  margin-top:180px;
+  margin-top:160px;
 }
 
 h2 {
   text-align: center;
   font-family: Gill Sans;
-  margin-top:-20px;
+  margin-top:-15px;
+}
+
+
+img{
+  width:100px;
+  height:100px;
+  margin-top:30px;
+  margin-left:5px;
+  position: relative center;
 }
 
 p {
