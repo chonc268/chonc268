@@ -9,7 +9,7 @@ h1 {
 }
 
 h2 {
-  position:relative; top:667px; left:25px;
+  position:relative; top:666px; left:55px;
   font-family:Gill Sans;
   color:white;
 }
@@ -34,6 +34,37 @@ p {
   position:fixed;
   margin-top:310px;
   margin-left:13px;
+}
+
+.home {
+  position: relative;
+  display: inline-block;
+  margin: 0 auto;
+  -webkit-transition: all 0.5s ease-in-out;
+  width:50px;
+  height:50px;
+  position:fixed;
+  margin-top:-180px;
+  margin-left:673px;
+}
+
+.home:hover {
+  border-radius: 30px;
+  width: 150px;
+  height: 150px;
+  margin-left:625px;
+  -webkit-transform: scale(2);
+  cursor: pointer;
+}
+
+.home_text{
+  font-family:Gill Sans;
+  font-size:30px;
+  color:black;
+  margin-top:-148px;
+  margin-left:668px;
+  position:fixed;
+
 }
 
 
