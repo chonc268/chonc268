@@ -1,18 +1,20 @@
 p {
   font-family: Gill Sans;
-  font-size:60px;
+  font-size:40px;
   text-align:center;
   margin-top:30px;
+  margin-bottom:40px;
   position:relative;
 }
 
 a {
   font-family:Gill Sans;
   text-decoration:none;
-  font-size:45px;
+  font-size:30px;
   text-align:center;
   color:black;
-
+  left:10px;
+  line-height:1.5;
 }
 
 a:hover {
@@ -24,8 +26,8 @@ a:hover {
 img{
   width:700px;
   height:700px;
-  margin-top:-380px;
-  margin-left:360px;
+  margin-top:-250px;
+  margin-left:355px;
   position: relative center;
 
 }
