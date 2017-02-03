@@ -52,6 +52,6 @@ a:hover {
   text-decoration:none;
 }
 
-.custom {
-   cursor: url(https://chonc268.github.io/projects/remixes/custom_cursor.png), auto;
+.cursor{
+  cursor: url(https://chonc268.github.io/projects/remixes/custom_cursor.png), auto;
 }
