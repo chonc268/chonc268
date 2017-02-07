@@ -1,19 +1,55 @@
 .info{
-width:100px;
+width:130px;
 height:100px;
+position:relative;
+left:auto;
+right:auto;
+}
+
+.info:hover {
+  background-image: url('https://chonc268.github.io/projects/vday/sketches/images/home.png');
+  width:130px;
+  height:100px;
 }
 
 .sketch1{
-width:100px;
+width:130px;
 height:100px;
+position:relative;
+left:auto;
+right:auto;
+}
+
+.sketch1:hover {
+  background-image: url('https://chonc268.github.io/projects/vday/sketches/images/sketch1.png');
+  width:130px;
+  height:100px;
 }
 
 .sketch2{
-width:100px;
+width:130px;
 height:100px;
+position:relative;
+left:auto;
+right:auto;
+}
+
+.sketch2:hover {
+  background-image: url('https://chonc268.github.io/projects/vday/sketches/images/sketch2.png');
+  width:130px;
+  height:100px;
 }
 
 .sketch3{
-width:100px;
+width:130px;
 height:100px;
+position:relative;
+left:auto;
+right:auto;
+}
+
+.sketch3:hover {
+  background-image: url('https://chonc268.github.io/projects/vday/sketches/images/sketch3.png');
+  width:130px;
+  height:100px;
 }
