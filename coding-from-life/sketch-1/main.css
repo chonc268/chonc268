@@ -5,7 +5,7 @@ body {
 .frame {
   width: 1000px;
   height: 600px;
-  background: gray;
+  background: #E9BEAB;
   margin: 30px auto;
   position: relative;
 }
@@ -73,32 +73,63 @@ body {
 }
 
 .book-bottom {
+  position: absolute;
+  background-color: #D9E5EC;
+  width: 248px;
+  height: 31px;
+  bottom: 120px;
+  left: 290px;
+ }
+
+ .book-middle {
    position: absolute;
-   background-color: #D9E5EC;
-   width: 222px;
-   height: 20px;
-   bottom: 120px;
-   left: 300px;
+   background-color: #00BEB5;
+   width: 221px;
+   height: 47px;
+   bottom: 151px;
+   left: 290px;
+  }
+
+.book-top {
+   position: absolute;
+   background-color: #F6EBD8;
+   width: 140px;
+   height: 24px;
+   bottom: 198px;
+   left: 298px;
 }
+
 
 .flower1 {
   position: absolute;
-  background-color: green;
-  width: 10px;
-  height: 60px;
-  left: 653px;
-  bottom: 299px;
-  transform: rotate(10deg)
+  background-color: purple;
+  width: 56px;
+  height: 23px;
+  left: 595px;
+  bottom: 364px;
+  border-radius: 100px;
+  transform: rotate(-25deg);
 }
 
 .flower-stem1 {
   position: absolute;
   background-color: green;
-  width: 10px;
-  height: 60px;
-  left: 653px;
-  bottom: 299px;
-  transform: rotate(10deg)
+  width: 6px;
+  height: 69px;
+  left: 632px;
+  bottom: 311px;
+  transform: rotate(165deg);
+}
+
+.flower1yellow {
+  position: absolute;
+  background-color: yellow;
+  width: 6px;
+  height: 15px;
+  left: 624px;
+  bottom: 379px;
+  border-radius: 100px;
+  transform: rotate(246deg);
 }
 
 .flower2 {
@@ -115,10 +146,21 @@ body {
 .flower-stem2 {
   position: absolute;
   background-color: green;
-  width: 10px;
+  width: 6px;
   height: 60px;
   left: 653px;
   bottom: 299px;
   transform: rotate(10deg)
+}
+
+.flower2yellow {
+  position: absolute;
+  background-color: yellow;
+  width: 6px;
+  height: 15px;
+  left: 673px;
+  bottom: 351px;
+  border-radius: 100px;
+  transform: rotate(101deg);
 }
 /* Your CSS goes here */
