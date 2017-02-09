@@ -1,0 +1,124 @@
+body {
+  background-color: black;
+}
+
+.frame {
+  width: 1000px;
+  height: 600px;
+  background: gray;
+  margin: 30px auto;
+  position: relative;
+}
+
+.tablecloth {
+  position:absolute;
+  width:800px;
+  height:100px;
+  background-color:gray;
+  left:100px;
+  bottom:1px;
+}
+
+.table {
+  position:absolute;
+  background-color:#B3B5B5;
+  width:800px;
+  height:20px;
+  left:100px;
+  bottom:100px;
+}
+
+.candle {
+  position: absolute;
+  background-color: purple;
+  width: 42px;
+  height: 48px;
+  left: 563px;
+  bottom: 120px;
+}
+
+.candle-glass {
+  position: absolute;
+  background-color: #F2F1F0;
+  width: 42px;
+  height: 57px;
+  left: 563px;
+  bottom: 120px;
+  border-top-left-radius:2px;
+  border-top-right-radius:2px;
+}
+
+.vase {
+  position: absolute;
+  background-color: #F6EBD8;
+  width: 100px;
+  height: 157px;
+  left: 600px;
+  bottom: 120px;
+  border-radius: 10px;
+  border-top-left-radius: 40px;
+  border-top-right-radius: 40px;
+ }
+
+ .vase-top {
+   position: absolute;
+   background-color: #F6EBD8;
+   width: 42px;
+   height: 135px;
+   left: 628px;
+   bottom: 177px;
+   border-radius: 10px;
+   border-top-left-radius: 5px;
+   border-top-right-radius: 5px;
+}
+
+.book-bottom {
+   position: absolute;
+   background-color: #D9E5EC;
+   width: 222px;
+   height: 20px;
+   bottom: 120px;
+   left: 300px;
+}
+
+.flower1 {
+  position: absolute;
+  background-color: green;
+  width: 10px;
+  height: 60px;
+  left: 653px;
+  bottom: 299px;
+  transform: rotate(10deg)
+}
+
+.flower-stem1 {
+  position: absolute;
+  background-color: green;
+  width: 10px;
+  height: 60px;
+  left: 653px;
+  bottom: 299px;
+  transform: rotate(10deg)
+}
+
+.flower2 {
+  position: absolute;
+  background-color: purple;
+  width: 56px;
+  height: 23px;
+  left: 653px;
+  bottom: 338px;
+  border-radius: 100px;
+  transform: rotate(10deg);
+}
+
+.flower-stem2 {
+  position: absolute;
+  background-color: green;
+  width: 10px;
+  height: 60px;
+  left: 653px;
+  bottom: 299px;
+  transform: rotate(10deg)
+}
+/* Your CSS goes here */
