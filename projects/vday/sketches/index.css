@@ -1,9 +1,9 @@
-.info{
-width:130px;
-height:100px;
-position:relative;
-margin:left:100px;
-margin:right:auto;
+.info {
+  display:block;
+  width:200px;
+  height:150px;
+  position:relative;
+  margin: 0 auto;
 }
 
 .info:hover {
@@ -12,12 +12,12 @@ margin:right:auto;
   height:100px;
 }
 
-.sketch1{
-width:130px;
-height:100px;
-position:relative;
-margin:left:auto;
-margin:right:auto;
+.sketch1 {
+  display:block;
+  width:200px;
+  height:150px;
+  position:relative;
+  margin: 0 auto;
 }
 
 .sketch1:hover {
@@ -26,12 +26,12 @@ margin:right:auto;
   height:100px;
 }
 
-.sketch2{
-width:130px;
-height:100px;
-position:relative;
-margin:left:auto;
-margin:right:auto;
+.sketch2 {
+  display:block;
+  width:200px;
+  height:150px;
+  position:relative;
+  margin: 0 auto;
 }
 
 .sketch2:hover {
@@ -40,12 +40,12 @@ margin:right:auto;
   height:100px;
 }
 
-.sketch3{
-width:130px;
-height:100px;
-position:relative;
-margin:left:auto;
-margin:right:auto;
+.sketch3 {
+  display:block;
+  width:200px;
+  height:150px;
+  position:relative;
+  margin: 0 auto;
 }
 
 .sketch3:hover {
