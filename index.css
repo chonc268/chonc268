@@ -1,0 +1,40 @@
+body {
+  background-color: floralwhite;
+}
+a {
+  display:block;
+  text-decoration: none;
+  font-size:35px;
+  font-family:Gill Sans;
+  text-align:center;
+  margin:0 auto;
+  color:black;
+}
+
+a:hover {
+  text-decoration: none;
+  font-size:40px;
+  color:gray;
+
+}
+
+p {
+  display:block;
+  text-decoration: none;
+  font-size:45px;
+  font-family:Gill Sans;
+  text-align:center;
+  margin:0 auto;
+  padding-top:40px;
+}
+
+.core {
+  display:block;
+  text-decoration: none;
+  color:gray;
+  font-size:15px;
+  font-family:Gill Sans;
+  text-align:center;
+  margin:0 auto;
+  padding-top:5px;
+}
