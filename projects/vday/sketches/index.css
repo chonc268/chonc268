@@ -16,13 +16,6 @@
   padding-top:50px;
 }
 
-.sketch1:hover {
-  background-image: url('https://chonc268.github.io/projects/vday/sketches/images/sketch1.png');
-  display:block;
-  width:200px;
-  height:150px;
-}
-
 .sketch2 {
   display:block;
   width:130px;
@@ -30,13 +23,6 @@
   position:relative;
   margin: 0 auto;
   padding-top:50px;
-}
-
-.sketch2:hover {
-  background-image: url('https://chonc268.github.io/projects/vday/sketches/images/sketch2.png');
-  display:block;
-  width:200px;
-  height:150px;
 }
 
 .sketch3 {
@@ -47,9 +33,3 @@
   margin: 0 auto;
   padding-top:50px;
 }
-
-.sketch3:hover {
-  background-image: url('https://chonc268.github.io/projects/vday/sketches/images/sketch3.png');
-  display:block;
-  width:200px;
-  height:150px;
