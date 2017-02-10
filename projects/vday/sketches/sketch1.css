@@ -1,4 +1,23 @@
-.pdf{
-  width:600px
-  height:1600px;
+body {
+  background-color: #edaf86;
+}
+
+a {
+  text-decoration:none;
+
+}
+
+.img1 {
+  display:block;
+  margin: 0 auto;
+  width:780px;
+  height:550px;
+}
+
+.img2 {
+  display:block;
+  padding-top:30px;
+  margin: 0 auto;
+  width:780px;
+  height:550px;
 }
