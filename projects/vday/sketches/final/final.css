@@ -19,3 +19,13 @@ img {
   margin: auto;
   width:600px;
 }
+
+a {
+  display:block;
+  margin:auto;
+  text-decoration:none;
+  color:floralwhite;
+  text-align:center;
+  font-size:20px;
+  font-family:Gill Sans;
+}
