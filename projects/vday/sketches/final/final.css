@@ -15,7 +15,7 @@ p {
 }
 
 img {
-  display:block;
-  text-align:center;
-  width:20%;
+  display: block;
+  margin: auto;
+  width:600px;
 }
