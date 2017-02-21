@@ -1,7 +1,12 @@
-p {
+.firstlink {
   text-align:center;
   font-size:25px;
   margin-top:330px;
+}
+
+.secondlink {
+  text-align:center;
+  font-size:25px;
 }
 
 a {
