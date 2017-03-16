@@ -1,5 +1,24 @@
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
 body {
   background-color: #FFFAF0;
+}
+
+.paragraph {
+  width: 56%;
+  position: fixed;
+  top: 150px;
+  left: 560px;
+}
+
+.otherinfo {
+  width: 56%;
+  left: 560px;
 
 }
 
@@ -22,13 +41,6 @@ body {
   z-index: 0;
 }
 
-.hvr-hollow:hover, .hvr-hollow:focus, .hvr-hollow:active {
-  background: white;
-  width:400px;
-  height:530px;
-  z-index: 0;
-}
-
 .book1 {
   display:block;
   font-family: AkzidenzGroteskStd-Regular;
@@ -48,48 +60,48 @@ body {
 }
 
 .dropbtn {
-    background-color: #FFFAF0;
-    border: 3px solid black;
-    color: black;
-    font-family: AkzidenzGroteskStd-Regular;
-    padding: 0 5px 0 5px;
-    font-size: 40px;
-    cursor: pointer;
-    z-index: 1;
+  background-color: #FFFAF0;
+  border: 3px solid black;
+  color: black;
+  font-family: AkzidenzGroteskStd-Regular;
+  padding: 0 5px 0 5px;
+  font-size: 40px;
+  cursor: pointer;
+  z-index: 1;
 }
 
 /* The container <div> - needed to position the dropdown content */
 .dropdown {
-    position: fixed;
-    display: inline-block;
-    top: 28px;
-    right:50px;
-    background-color: #FFFAF0;
-    z-index: 1;
+  position: fixed;
+  display: inline-block;
+  top: 20px;
+  right:50px;
+  background-color: #FFFAF0;
+  z-index: 1;
 }
 
 /* Dropdown Content (Hidden by Default) */
 .dropdown-content {
-    display: none;
-    position: absolute;
-    background-color: white;
-    min-width: 160px;
-    border: 3px solid black;
-    z-index: 1;
+  display: none;
+  position: absolute;
+  background-color: white;
+  width: 100%;
+  border: 3px solid black;
+  z-index: 1;
 }
 
 /* Links inside the dropdown */
 .dropdown-content a {
-    color: black;
-    padding: 0 5px 0 5px;
-    text-decoration: none;
-    display: block;
-    background-color: #FFFAF0;
-    color: black;
-    font-family: AkzidenzGroteskStd-Regular;
-    font-size: 40px;
-    cursor: pointer;
-    z-index: 1;
+  color: black;
+  padding: 0 5px 0 5px;
+  text-decoration: none;
+  display: block;
+  background-color: #FFFAF0;
+  color: black;
+  font-family: AkzidenzGroteskStd-Regular;
+  font-size: 40px;
+  cursor: pointer;
+  z-index: 1;
 }
 
 /* Change color of dropdown links on hover */
@@ -112,11 +124,34 @@ body {
 
 .booksididntread {
   position:fixed;
+  color:black;
   display:block;
-  top:29px;
+  top:20px;
   font-family: AkzidenzGroteskStd-Regular;
   font-size: 40px;
   color: black
   padding-top:20px;
   margin-left:50px;
+  text-decoration:none;
+}
+
+.booksididntread:hover {
+  position:fixed;
+  display:block;
+  top:20px;
+  font-family: AkzidenzGroteskStd-Regular;
+  font-size: 40px;
+  color: black
+  padding-top:20px;
+  margin-left:50px;
+  background-color:white;
+  border: 3px white solid;
+  text-decoration: none;
+}
+
+.container{
+  font-family: AkzidenzGroteskStd-Regular;
+  font-size: 40px;
+  color: black;
+  box-sizing: border-box;
 }
