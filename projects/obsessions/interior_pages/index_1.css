@@ -1,5 +1,12 @@
+@font-face {
+  font-family: "AkzidenzGroteskStd-Regular";
+  src: url("../≥≥fonts/AkzidenzGroteskStd-Regular.otf") format("opentype");
+}
+
 html {
   box-sizing: border-box;
+  font-family: "AkzidenzGroteskStd-Regular", sans-serif;
+  font-size: 40px;
 }
 *, *:before, *:after {
   box-sizing: inherit;
@@ -27,6 +34,7 @@ body {
   margin-left:53px;
   max-width: 815px;
   z-index: 0;
+  text-decoration:none;
 }
 
 .hvr-hollow:hover, .hvr-hollow:focus, .hvr-hollow:active {
@@ -34,6 +42,8 @@ body {
   width:400px;
   height:530px;
   z-index: 0;
+  text-decoration:none;
+  color:black;
 }
 
 .book1 {
@@ -119,11 +129,16 @@ body {
 
 .booksididntread {
   position:fixed;
+  color:black;
   display:block;
-  top:29px;
-  font-family: AkzidenzGroteskStd-Regular;
+  top:20px;
   font-size: 40px;
   color: black
   padding-top:20px;
   margin-left:50px;
+  text-decoration:none;
+}
+
+.booksididntread:hover {
+  background-color: white;
 }

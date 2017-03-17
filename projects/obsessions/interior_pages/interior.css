@@ -149,14 +149,25 @@ body {
 .right_arrow {
   position:fixed;
   display:block;
-  bottom:75px;
+  bottom:30px;
   right:55px;
+  text-decoration: none;
+  color:black;
   }
+
+.left_arrow {
+  position:fixed;
+  display:block;
+  bottom:30px;
+  left:60px;
+  text-decoration: none;
+  color:black;
+}
 }
 
 @media (max-width: 1440px) {
   body {
-    background-color: #FFFAF0;
+    background-color: blue;
   }
 
   .dropbtn {
@@ -250,7 +261,7 @@ body {
 
 @media (max-width: 1110px) {
   body {
-    background-color: #FFFAF0;
+    background-color: red;
   }
 
   .dropbtn {
@@ -344,7 +355,7 @@ body {
 
 @media (max-width: 1039px) {
   body {
-    background-color: #FFFAF0;
+    background-color: yellow;
   }
 
   .dropbtn {
@@ -434,11 +445,13 @@ body {
     width: 110%;
     left: 500px;
   }
+
+
 }
 
 @media (max-width: 886px) {
   body {
-    background-color: #FFFAF0;
+    background-color: green;
   }
 
   .hvr-hollow {
@@ -587,11 +600,17 @@ body {
     font-size:60%;
     top:500px;
   }
+
+  .left_arrow {
+    font-size:60%;
+    top:500px;
+    left:380px;
+  }
 }
 
 @media (max-width: 600px) {
   body {
-    background-color: white;
+    background-color: purple;
   }
 
   .hvr-hollow {
@@ -740,5 +759,11 @@ body {
   .right_arrow {
     font-size:60%;
     top:700px;
+  }
+  .left_arrow {
+    font-size:60%;
+    top:700px;
+    left:300px;
+
   }
 }
