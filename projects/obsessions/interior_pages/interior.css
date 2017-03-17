@@ -167,7 +167,7 @@ body {
 
 @media (max-width: 1440px) {
   body {
-    background-color: blue;
+    background-color: #FFFAF0;
   }
 
   .dropbtn {
@@ -261,7 +261,7 @@ body {
 
 @media (max-width: 1110px) {
   body {
-    background-color: red;
+    background-color: #FFFAF0;
   }
 
   .dropbtn {
@@ -355,7 +355,7 @@ body {
 
 @media (max-width: 1039px) {
   body {
-    background-color: yellow;
+    background-color: #FFFAF0;
   }
 
   .dropbtn {
@@ -451,7 +451,7 @@ body {
 
 @media (max-width: 886px) {
   body {
-    background-color: green;
+    background-color: #FFFAF0;
   }
 
   .hvr-hollow {
@@ -610,7 +610,7 @@ body {
 
 @media (max-width: 600px) {
   body {
-    background-color: purple;
+    background-color: white;
   }
 
   .hvr-hollow {
