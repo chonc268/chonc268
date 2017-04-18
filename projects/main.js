@@ -44,3 +44,46 @@ var characterFirst= ['C','A','R','O','L'];
 for ( var i = 0; i < characterFirst.length; i++) {
   console.log( characterFirst[i] + ' ' + i);
 }
+
+var date = new Date;
+var hour = date.getHours();
+
+if ( hour > 7 && hour < 9) {
+  console.log("woah, it's midnight");
+} else {
+  console.log("it's not class time");
+}
+
+
+var days = [
+'Sunday',
+'Monday',
+'Tuesday',
+'Wednesday',
+'Thursday',
+'Friday',
+'Saturday'
+];
+
+//* number 8!//*
+
+var foods = [
+'Strawberries',
+'Pasta',
+'Budaechigae',
+]
+var animals = [
+'bunnies',
+'puppies',
+'lions',
+]
+var places = [
+'Guam',
+'Japan',
+'Palau',
+]
+var pokemon = [
+'Charmander',
+'Tepig',
+'Latias',
+]
