@@ -17,8 +17,8 @@ body::-webkit-scrollbar-track {
 }
 
 body::-webkit-scrollbar-thumb {
-  background-color: darkgrey;
-  outline: 1px solid slategrey;
+  background-color: white;
+  outline: 1px solid white;
 }
 
 @media (max-width: 1000px) {
@@ -6969,4 +6969,36 @@ p {
 }
 .alternate:hover img {
     opacity: 1;
+}
+
+
+.funky {
+    color: white;
+}
+
+.funky {
+    cursor: url(../love letter/laughing.png), auto;
+}
+
+.gradient-fill {
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    transition: all 0.8s ease;
+}
+
+.gradient-fill:hover {
+    background: -webkit-radial-gradient(blue, white);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    cursor: pointer;
+}
+
+a {
+    text-decoration: none;
+    color:white;
+}
+
+a:hover {
+    text-decoration:none;
+    color:white;
 }
