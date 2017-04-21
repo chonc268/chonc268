@@ -1,0 +1,42 @@
+/* Your styles go here */
+body {
+  margin: 0;
+}
+
+.box {
+  position: absolute;
+  width:33.33%;
+  height:33.33vh;
+}
+
+.green{
+  background-color: #cbdf1e;
+}
+
+.gray{
+  background-color: #607d8d;
+}
+
+.one{
+  top:0;
+}
+
+.two{
+  top:0;
+  right:0;
+}
+
+.three{
+  top:50%;
+  left:50%;
+  transform:translate(-50%,-50%);
+}
+
+.four{
+  bottom:0;
+}
+
+.five{
+  bottom:0;
+  right:0;
+}

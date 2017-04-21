@@ -87,3 +87,13 @@ var pokemon = [
 'Tepig',
 'Latias',
 ]
+
+var arrayOfArrays =[ foods, animals, places, pokemon]
+
+for ( var index1 = 0; index1 < 3; index1++){
+  console.log ('My favorite things are' + (index1 + 1));
+
+for ( var index2 = 0; index2 < arrayOfArrays[index1].length; index2++){
+  console.log (arrayOfArrays[index1][index2]);
+}
+}

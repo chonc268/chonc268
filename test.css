@@ -1,0 +1,90 @@
+body {
+  background: #F3F315;
+}
+FFD100
+F3F315
+
+
+/* SCROLL BAR*/
+body::-webkit-scrollbar {
+    width: 1em;
+}
+
+body::-webkit-scrollbar-thumb {
+  background-color: white;
+  outline: 1px solid #FFD100;
+}
+
+div{
+  position:fixed;
+  font-family: AkzidenzGroteskStd-Md;
+  font-size: 30px;
+  color: #000000;
+  letter-spacing: 15px;
+  line-height: 57px;
+  padding-top: 0.5%;
+  padding-left:1.5%;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+  transition: all 0.75s ease;
+}
+
+.name:hover {
+  color: #F3F315;
+}
+
+.class:hover {
+  color: #dbafa7;
+}
+
+.remixes:hover {
+  color: #a5a5a5;
+}
+
+.loveletter {
+  font-family: AkzidenzGroteskStd-Md;
+  font-size: 30px;
+  color: ;
+  letter-spacing: 15px;
+  line-height: 57px;
+  margin-top: -7px;
+  margin-left: -20px;
+}
+
+.loveletter:hover{
+  color: white;
+  background: black;
+  font-family: AkzidenzGroteskStd-Md;
+  font-size: 30px;
+  white-space: nowrap;
+  overflow: hidden;
+  width: 10em;
+  margin: 0;
+  animation: type 5s steps(60, end);
+}
+
+.loveletter:hover a{
+  color: black;
+  text-decoration: none;
+}
+
+span{
+  animation: blink 1s infinite;
+}
+
+@keyframes type{
+  from { width: 0; }
+}
+
+@keyframes type2{
+  0%{width: 0;}
+  50%{width: 0;}
+  100%{ width: 100; }
+}
+
+@keyframes blink{
+  to{opacity: 1;}
+}
