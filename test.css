@@ -1,3 +1,11 @@
+@font-face {
+  font-family: "AkzidenzGroteskStd-Md";
+  src: url("../≥≥fonts/AkzidenzGroteskStd-Md.otf") format("opentype");
+
+  font-family: "AmericanTypewriter";
+  src: url("../≥≥fonts/AmericanTypewriter.ttc") format("opentype");
+}
+
 body {
   background: #F3F315;
 }
@@ -44,6 +52,10 @@ a {
   color: #a5a5a5;
 }
 
+.vday:hover {
+  font-family:AmericanTypewriter;
+}
+
 .loveletter {
   font-family: AkzidenzGroteskStd-Md;
   font-size: 30px;
@@ -88,3 +100,5 @@ span{
 @keyframes blink{
   to{opacity: 1;}
 }
+
+
