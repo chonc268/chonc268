@@ -4,6 +4,9 @@
 
   font-family: "AkzidenzGroteskStd-Regular";
   src: url("../≥≥fonts/AkzidenzGroteskStd-Regular.otf") format("opentype");
+
+  font-family: "AmericanTypewriter";
+  src: url("../≥≥fonts/AmericanTypewriter.ttc") format("opentype");
 }
 
 body {
@@ -60,7 +63,7 @@ a {
 }
 
 .vday:hover {
-  font-family:‘American Typewriter’;
+  font-family: AmericanTypewriter;
 }
 
 .coding {
