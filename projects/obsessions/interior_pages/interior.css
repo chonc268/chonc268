@@ -14,6 +14,7 @@ html {
 
 body {
   background-color: #FFFAF0;
+  font-family: "AkzidenzGroteskStd-Regular", sans-serif;
 }
 
 .paragraph {
@@ -21,6 +22,7 @@ body {
   position: fixed;
   top: 150px;
   left: 560px;
+  font-family: "AkzidenzGroteskStd-Regular", sans-serif;
 }
 
 .otherinfo {
@@ -46,6 +48,7 @@ body {
   margin-left:53px;
   max-width: 815px;
   z-index: 0;
+  font-family: "AkzidenzGroteskStd-Regular", sans-serif;
 }
 
 .book1 {
@@ -54,6 +57,7 @@ body {
   color: black;
   text-align: center;
   margin-top:95px;
+  font-family: "AkzidenzGroteskStd-Regular", sans-serif;
 }
 
 .author {
@@ -62,6 +66,7 @@ body {
   color: black;
   text-align: center;
   margin-top:205px;
+  font-family: "AkzidenzGroteskStd-Regular", sans-serif;
 }
 
 .dropbtn {
@@ -72,6 +77,7 @@ body {
   font-size: 40px;
   cursor: pointer;
   z-index: 1;
+  font-family: "AkzidenzGroteskStd-Regular", sans-serif;
 }
 
 /* The container <div> - needed to position the dropdown content */
@@ -135,10 +141,12 @@ body {
   padding-top:20px;
   margin-left:50px;
   text-decoration:none;
+  font-family: "AkzidenzGroteskStd-Regular", sans-serif;
 }
 
 .booksididntread:hover {
   background-color: white;
+  font-family: "AkzidenzGroteskStd-Regular", sans-serif;
 }
 
 .container{
