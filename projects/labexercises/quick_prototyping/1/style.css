@@ -45,6 +45,9 @@ body {
     position: 0 auto;
     padding-top:3%;
   }
+  .one{
+    color:green;
+  }
   .three{
     color:purple;
     font-size:130px;
@@ -60,6 +63,15 @@ body {
    text-align: center;
    position: 0 auto;
    padding-top:3%;
+ }
+ .one{
+  color:purple;
+ }
+ .two{
+  color:purple;
+ }
+ .three{
+  color:purple;
  }
  .four{
     color:black;
