@@ -1,12 +1,15 @@
-$(document).ready(function(){
-            var scroll_pos = 0;
-            $(document).scroll(function() {
-                scroll_pos = $(this).scrollTop();
-                if(scroll_pos > 210) {
-                    $("html").css('background-color', '#a5a5a5');
-                }
-                else {
-                    $("html").css('background-color', 'white');
-                }
-            });
-        });
+$(function() {
+  var $html = $('html');
+  var $percentageContainer = $('.percent');
+
+  $(window).scroll(function() {
+    var scrollTop = $(window).scrollTop();
+    var totalHeight = $(document).height();
+    var windowHeight = $(window).height();
+    var percentScrolled = scrollTop / (totalHeight - windowHeight);
+
+    $percentageContainer.html( percentScrolled );
+
+    $html.css('background', 'rgba(0, 0, 0, ' + percentScrolled + ')');
+  });
+});
