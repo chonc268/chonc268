@@ -1,1 +1,18 @@
-/* Your styles go here */
+.random {
+  background-color:#000;
+  border-radius: 0%;
+  width:350px;
+  height:350px;
+}
+
+body {
+  padding-top:3%;
+  position: 0 auto;
+  text-align: center;
+  font-family: Arial;
+  font-size:30px;
+}
+
+.month {
+
+}
