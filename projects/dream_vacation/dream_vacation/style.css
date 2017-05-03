@@ -1,0 +1,624 @@
+.y{
+  margin-top:100px;
+  margin-left:110px;
+}
+
+.yone{
+  background-color:black;
+  width:20px;
+  height:20px;
+}
+
+.ytwo{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-20px;
+  margin-left:80px;
+}
+
+.ythree{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-3px;
+  margin-left:5px;
+}
+
+.yfour{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-20px;
+  margin-left:75px;
+}
+
+.yfive{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-3px;
+  margin-left:10px;
+}
+
+.ysix{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-20px;
+  margin-left:70px;
+}
+
+.yseven{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-3px;
+  margin-left:15px;
+}
+
+.yeight{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-20px;
+  margin-left:65px;
+}
+
+.ynine{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-10px;
+  margin-left:35px;
+}
+
+.yten{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-20px;
+  margin-left:25px;
+}
+
+.yeleven{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-20px;
+  margin-left:55px;
+}
+
+.ytwelve{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-2px;
+  margin-left:40px;
+}
+
+.ythirteen{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-5px;
+  margin-left:35px;
+}
+
+.yfourteen{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-5px;
+  margin-left:25px;
+}
+
+.yfifteen{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-5px;
+  margin-left:15px;
+}
+
+.ysixteen{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-20px;
+  margin-left:0px;
+}
+
+.e{
+  margin-top:-145px;
+  margin-left:260px;
+}
+
+.eone{
+  background-color:black;
+  width:20px;
+  height:20px;
+}
+
+.etwo{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-20px;
+  margin-left:-15px;
+}
+
+.ethree{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-20px;
+  margin-left:20px;
+}
+
+.efour{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-10px;
+  margin-left:35px;
+}
+
+.efive{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-20px;
+  margin-left:-30px;
+}
+
+.esix{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-10px;
+  margin-left:45px;
+}
+
+.eseven{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-20px;
+  margin-left:-40px;
+}
+
+.eeight{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:0px;
+  margin-left:48px;
+}
+
+.enine{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-20px;
+  margin-left:-45px;
+}
+
+.eten{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-20px;
+  margin-left:-25px;
+}
+
+.eeleven{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-20px;
+  margin-left:-5px;
+}
+
+.etwelve{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-20px;
+  margin-left:15px;
+}
+
+.ethirteen{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-20px;
+  margin-left:30px;
+}
+
+.efourteen{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-0px;
+  margin-left:-40px;
+}
+
+.efifteen{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-18px;
+  margin-left:-40px;
+}
+
+.esixteen{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-5px;
+  margin-left:-35px;
+}
+
+.eseventeen{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-13px;
+  margin-left:-25px;
+}
+
+.eeighteen{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-17px;
+  margin-left:-15px;
+}
+
+.enineteen{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-20px;
+  margin-left:5px;
+}
+
+.etwenty{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-20px;
+  margin-left:20px;
+}
+/*
+.etwentyone{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-25px;
+  margin-left:35px;
+}
+
+.etwentytwo{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-25px;
+  margin-left:48px;
+}
+*/
+
+.a{
+  margin-top:-105px;
+  margin-left:350px;
+}
+
+.aone{
+  background-color:black;
+  width:20px;
+  height:20px;
+}
+
+.atwo{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-23px;
+  margin-left:20px;
+}
+
+.athree{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-20px;
+  margin-left:40px;
+}
+
+.afour{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-17px;
+  margin-left:60px;
+}
+
+.afive{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-10px;
+  margin-left:-5px;
+}
+
+.asix{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-15px;
+  margin-left:65px;
+}
+
+.aseven{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:0px;
+  margin-left:65px;
+}
+
+.aeight{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:0px;
+  margin-left:65px;
+}
+
+.anine{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:0px;
+  margin-left:65px;
+}
+
+.aten{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-10px;
+  margin-left:65px;
+}
+
+.aeleven{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-60px;
+  margin-left:-5px;
+}
+
+.atwelve{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-25px;
+  margin-left:10px;
+}
+
+.athirteen{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-20px;
+  margin-left:30px;
+}
+
+.afourteen{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-20px;
+  margin-left:50px;
+}
+
+.afifteen{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:5px;
+  margin-left:-10px;
+}
+
+.asixteen{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-5px;
+  margin-left:-5px;
+}
+
+.aseventeen{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-15px;
+  margin-left:10px;
+}
+
+.aeighteen{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-20px;
+  margin-left:30px;
+}
+
+.anineteen{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-20px;
+  margin-left:50px;
+}
+
+.r{
+  margin-top:-105px;
+  margin-left:450px;
+}
+
+.rone{
+  background-color:black;
+  width:20px;
+  height:20px;
+}
+
+.rtwo{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:0px;
+  margin-left:0px;
+}
+
+.rthree{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:0px;
+  margin-left:0px;
+}
+
+.rfour{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:0px;
+  margin-left:0px;
+}
+
+.rfive{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:0px;
+  margin-left:0px;
+}
+
+.rsix{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-15px;
+  margin-left:0px;
+}
+
+.rseven{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-95px;
+  margin-left:10px;
+}
+
+.reight{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-25px;
+  margin-left:25px;
+}
+
+.rnine{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-25px;
+  margin-left:35px;
+}
+
+.m{
+  margin-top:-20px;
+  margin-left:600px;
+}
+
+.mone{
+  background-color:black;
+  width:20px;
+  height:20px;
+}
+
+.mtwo{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:0px;
+  margin-left:0px;
+}
+
+.mthree{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:0px;
+  margin-left:0px;
+}
+
+.mfour{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:0px;
+  margin-left:0px;
+}
+
+.mfive{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:0px;
+  margin-left:0px;
+}
+
+.msix{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-15px;
+  margin-left:0px;
+}
+
+.mseven{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-95px;
+  margin-left:10px;
+}
+
+.meight{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-25px;
+  margin-left:25px;
+}
+
+.mnine{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-20px;
+  margin-left:30px;
+}
+
+.mten{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-15px;
+  margin-left:40px;
+}
+
