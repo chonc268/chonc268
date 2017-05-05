@@ -1,317 +1,28 @@
-.y{
-  margin-top:100px;
-  margin-left:110px;
+.letter-definition {
+  display: none;
 }
 
-.yone{
-  background-color:black;
-  width:20px;
-  height:20px;
+.letter {
+  height: 220px;
+  display: inline-block;
+  margin: 8px;
 }
 
-.ytwo{
-  background-color:black;
-  width:20px;
-  height:20px;
-  margin-top:-20px;
-  margin-left:80px;
+.space {
+  width: 112px;
+  height: 220px;
 }
 
-.ythree{
-  background-color:black;
-  width:20px;
-  height:20px;
-  margin-top:-3px;
-  margin-left:5px;
-}
-
-.yfour{
-  background-color:black;
-  width:20px;
-  height:20px;
-  margin-top:-20px;
-  margin-left:75px;
-}
-
-.yfive{
-  background-color:black;
-  width:20px;
-  height:20px;
-  margin-top:-3px;
-  margin-left:10px;
-}
-
-.ysix{
-  background-color:black;
-  width:20px;
-  height:20px;
-  margin-top:-20px;
-  margin-left:70px;
-}
-
-.yseven{
-  background-color:black;
-  width:20px;
-  height:20px;
-  margin-top:-3px;
-  margin-left:15px;
-}
-
-.yeight{
-  background-color:black;
-  width:20px;
-  height:20px;
-  margin-top:-20px;
-  margin-left:65px;
-}
-
-.ynine{
-  background-color:black;
-  width:20px;
-  height:20px;
-  margin-top:-10px;
-  margin-left:35px;
-}
-
-.yten{
-  background-color:black;
-  width:20px;
-  height:20px;
-  margin-top:-20px;
-  margin-left:25px;
-}
-
-.yeleven{
-  background-color:black;
-  width:20px;
-  height:20px;
-  margin-top:-20px;
-  margin-left:55px;
-}
-
-.ytwelve{
-  background-color:black;
-  width:20px;
-  height:20px;
-  margin-top:-2px;
-  margin-left:40px;
-}
-
-.ythirteen{
-  background-color:black;
-  width:20px;
-  height:20px;
-  margin-top:-5px;
-  margin-left:35px;
-}
-
-.yfourteen{
-  background-color:black;
-  width:20px;
-  height:20px;
-  margin-top:-5px;
-  margin-left:25px;
-}
-
-.yfifteen{
-  background-color:black;
-  width:20px;
-  height:20px;
-  margin-top:-5px;
-  margin-left:15px;
-}
-
-.ysixteen{
-  background-color:black;
-  width:20px;
-  height:20px;
-  margin-top:-20px;
-  margin-left:0px;
-}
-
-.e{
-  margin-top:-145px;
-  margin-left:260px;
-}
-
-.eone{
-  background-color:black;
-  width:20px;
-  height:20px;
-}
-
-.etwo{
-  background-color:black;
-  width:20px;
-  height:20px;
-  margin-top:-20px;
-  margin-left:-15px;
-}
-
-.ethree{
-  background-color:black;
-  width:20px;
-  height:20px;
-  margin-top:-20px;
-  margin-left:20px;
-}
-
-.efour{
-  background-color:black;
-  width:20px;
-  height:20px;
-  margin-top:-10px;
-  margin-left:35px;
-}
-
-.efive{
-  background-color:black;
-  width:20px;
-  height:20px;
-  margin-top:-20px;
-  margin-left:-30px;
-}
-
-.esix{
-  background-color:black;
-  width:20px;
-  height:20px;
-  margin-top:-10px;
-  margin-left:45px;
-}
-
-.eseven{
-  background-color:black;
-  width:20px;
-  height:20px;
-  margin-top:-20px;
-  margin-left:-40px;
-}
-
-.eeight{
-  background-color:black;
-  width:20px;
-  height:20px;
-  margin-top:0px;
-  margin-left:48px;
-}
-
-.enine{
-  background-color:black;
-  width:20px;
-  height:20px;
-  margin-top:-20px;
-  margin-left:-45px;
-}
-
-.eten{
-  background-color:black;
-  width:20px;
-  height:20px;
-  margin-top:-20px;
-  margin-left:-25px;
-}
-
-.eeleven{
-  background-color:black;
-  width:20px;
-  height:20px;
-  margin-top:-20px;
-  margin-left:-5px;
-}
-
-.etwelve{
-  background-color:black;
-  width:20px;
-  height:20px;
-  margin-top:-20px;
-  margin-left:15px;
-}
-
-.ethirteen{
-  background-color:black;
-  width:20px;
-  height:20px;
-  margin-top:-20px;
-  margin-left:30px;
-}
-
-.efourteen{
-  background-color:black;
-  width:20px;
-  height:20px;
-  margin-top:-0px;
-  margin-left:-40px;
-}
-
-.efifteen{
-  background-color:black;
-  width:20px;
-  height:20px;
-  margin-top:-18px;
-  margin-left:-40px;
-}
-
-.esixteen{
-  background-color:black;
-  width:20px;
-  height:20px;
-  margin-top:-5px;
-  margin-left:-35px;
-}
-
-.eseventeen{
-  background-color:black;
-  width:20px;
-  height:20px;
-  margin-top:-13px;
-  margin-left:-25px;
-}
-
-.eeighteen{
-  background-color:black;
-  width:20px;
-  height:20px;
-  margin-top:-17px;
-  margin-left:-15px;
-}
-
-.enineteen{
-  background-color:black;
-  width:20px;
-  height:20px;
-  margin-top:-20px;
-  margin-left:5px;
-}
-
-.etwenty{
-  background-color:black;
-  width:20px;
-  height:20px;
-  margin-top:-20px;
-  margin-left:20px;
-}
-/*
-.etwentyone{
-  background-color:black;
-  width:20px;
-  height:20px;
-  margin-top:-25px;
-  margin-left:35px;
-}
-
-.etwentytwo{
-  background-color:black;
-  width:20px;
-  height:20px;
-  margin-top:-25px;
-  margin-left:48px;
-}
-*/
+/*.lines-a {
+  background-image: url("a.png");
+  background-size: 100%;
+  width: 112px;
+  height: 220px;
+}*/
 
 .a{
-  margin-top:-105px;
-  margin-left:350px;
+  margin-top:100px;
+  margin-left:100px;
 }
 
 .aone{
@@ -464,9 +175,2239 @@
   margin-left:50px;
 }
 
-.r{
+/*.lines-b {
+  background-image: url("b.png");
+  background-size: 100%;
+  width: 112px;
+  height: 220px;
+}*/
+
+.b{
+  margin-top:-15px;
+  margin-left:260px;
+}
+
+.bone{
+  background-color:black;
+  width:20px;
+  height:20px;
+}
+
+.btwo{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-20px;
+  margin-left:-15px;
+}
+
+.bthree{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-20px;
+  margin-left:20px;
+}
+
+.bfour{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-30px;
+  margin-left:35px;
+}
+
+.bfive{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-40px;
+  margin-left:35px;
+}
+
+.bsix{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-40px;
+  margin-left:35px;
+}
+
+.bseven{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-40px;
+  margin-left:35px;
+}
+
+.beight{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-35px;
+  margin-left:20px;
+}
+
+.bnine{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-20px;
+  margin-left:0px;
+}
+
+.bten{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-20px;
+  margin-left:-10px;
+}
+
+.beleven{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:65px;
+  margin-left:-30px;
+}
+
+.btwelve{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-40px;
+  margin-left:-30px;
+}
+
+.bthirteen{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-40px;
+  margin-left:-30px;
+}
+
+.bfourteen{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-40px;
+  margin-left:-30px;
+}
+
+.bfifteen{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-40px;
+  margin-left:-30px;
+}
+
+.bsixteen{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-40px;
+  margin-left:-30px;
+}
+
+.bseventeen{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-40px;
+  margin-left:-30px;
+}
+
+.beighteen{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-40px;
+  margin-left:-30px;
+}
+
+/*.lines-c {
+  background-image: url("c.png");
+  background-size: 100%;
+  width: 112px;
+  height: 220px;
+}*/
+
+.c{
+  margin-top:0px;
+  margin-left:380px;
+}
+
+.cone{
+  background-color:black;
+  width:20px;
+  height:20px;
+}
+
+.ctwo{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-30px;
+  margin-left:-15px;
+}
+
+.cthree{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-40px;
+  margin-left:-15px;
+}
+
+.cfour{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-40px;
+  margin-left:-15px;
+}
+
+.cfive{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-40px;
+  margin-left:-15px;
+}
+
+.csix{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-30px;
+  margin-left:0px;
+}
+
+.cseven{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-20px;
+  margin-left:20px;
+}
+
+.ceight{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:60px;
+  margin-left:20px;
+}
+
+.cnine{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-100px;
+  margin-left:40px;
+}
+
+.cten{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:60px;
+  margin-left:40px;
+}
+
+.celeven{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-90px;
+  margin-left:50px;
+}
+
+.ctwelve{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:40px;
+  margin-left:50px;
+}
+
+/*.lines-d {
+  background-image: url("d.png");
+  background-size: 100%;
+  width: 112px;
+  height: 220px;
+}*/
+
+.d{
+  margin-top:-10px;
+  margin-left:520px;
+}
+
+.done{
+  background-color:black;
+  width:20px;
+  height:20px;
+}
+
+.dtwo{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-30px;
+  margin-left:-15px;
+}
+
+.dthree{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-40px;
+  margin-left:-15px;
+}
+
+.dfour{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-40px;
+  margin-left:-15px;
+}
+
+.dfive{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-40px;
+  margin-left:-15px;
+}
+
+.dsix{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-30px;
+  margin-left:0px;
+}
+
+.dfive{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-40px;
+  margin-left:-15px;
+}
+
+.dsix{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-30px;
+  margin-left:0px;
+}
+
+.dseven{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-20px;
+  margin-left:20px;
+}
+
+.deight{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:60px;
+  margin-left:20px;
+}
+
+.dnine{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-20px;
+  margin-left:40px;
+}
+
+.dten{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-100px;
+  margin-left:40px;
+}
+
+.deleven{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:60px;
+  margin-left:50px;
+}
+
+.dtwelve{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-40px;
+  margin-left:50px;
+}
+
+.dthirteen{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-40px;
+  margin-left:50px;
+}
+
+.dfourteen{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-40px;
+  margin-left:50px;
+}
+
+.dfifteen{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-40px;
+  margin-left:50px;
+}
+
+.dsixteen{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-40px;
+  margin-left:50px;
+}
+
+.dseventeen{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-40px;
+  margin-left:50px;
+}
+
+.deighteen{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-40px;
+  margin-left:50px;
+}
+
+/*.lines-e {
+  background-image: url("e.png");
+  background-size: 100%;
+  width: 112px;
+  height: 220px;
+}*/
+
+.e{
+  margin-top:-80px;
+  margin-left:690px;
+}
+
+.eone{
+  background-color:black;
+  width:20px;
+  height:20px;
+}
+
+.etwo{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-20px;
+  margin-left:-15px;
+}
+
+.ethree{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-20px;
+  margin-left:20px;
+}
+
+.efour{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-10px;
+  margin-left:30px;
+}
+
+.efive{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-20px;
+  margin-left:-30px;
+}
+
+.esix{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-10px;
+  margin-left:35px;
+}
+
+.eseven{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-20px;
+  margin-left:-40px;
+}
+
+.eeight{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:0px;
+  margin-left:40px;
+}
+
+.enine{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-20px;
+  margin-left:-45px;
+}
+
+.eten{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-20px;
+  margin-left:-25px;
+}
+
+.eeleven{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-20px;
+  margin-left:-5px;
+}
+
+.etwelve{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-20px;
+  margin-left:15px;
+}
+
+.ethirteen{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-20px;
+  margin-left:30px;
+}
+
+.efourteen{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-0px;
+  margin-left:-40px;
+}
+
+.efifteen{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-18px;
+  margin-left:-40px;
+}
+
+.esixteen{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-5px;
+  margin-left:-30px;
+}
+
+.eseventeen{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-15px;
+  margin-left:-20px;
+}
+
+.eeighteen{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-20px;
+  margin-left:-10px;
+}
+
+.enineteen{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-20px;
+  margin-left:10px;
+}
+
+.etwenty{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-20px;
+  margin-left:25px;
+}
+
+.etwentyone{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-23px;
+  margin-left:37px;
+}
+
+.e22{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-25px;
+  margin-left:48px;
+}
+
+/*.lines-f {
+  background-image: url("f.png");
+  background-size: 100%;
+  width: 112px;
+  height: 220px;
+}*/
+
+.f{
+  margin-top:-15px;
+  margin-left:820px;
+}
+
+.fone{
+  background-color:black;
+  width:20px;
+  height:20px;
+}
+
+.ftwo{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-40px;
+  margin-left:0px;
+}
+
+.fthree{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-40px;
+  margin-left:0px;
+}
+
+.ffour{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-40px;
+  margin-left:0px;
+}
+
+.ffive{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-40px;
+  margin-left:0px;
+}
+
+.fsix{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-40px;
+  margin-left:0px;
+}
+
+.fseven{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-40px;
+  margin-left:0px;
+}
+
+.feight{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-40px;
+  margin-left:0px;
+}
+
+.fnine{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-20px;
+  margin-left:0px;
+}
+
+.ften{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-25px;
+  margin-left:20px;
+}
+
+.feleven{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-20px;
+  margin-left:30px;
+}
+
+.ftwelve{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:40px;
+  margin-left:20px;
+}
+
+.fthirteen{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-20px;
+  margin-left:-20px;
+}
+
+/*.lines-g {
+  background-image: url("g.png");
+  background-size: 100%;
+  width: 112px;
+  height: 220px;
+}*/
+
+.g{
+  margin-top:0px;
+  margin-left:920px;
+}
+
+.gone{
+  background-color:black;
+  width:20px;
+  height:20px;
+}
+
+.gtwo{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-30px;
+  margin-left:-10px;
+}
+
+.gthree{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-40px;
+  margin-left:-10px;
+}
+
+.gfour{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-40px;
+  margin-left:-10px;
+}
+
+.gfive{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-40px;
+  margin-left:-10px;
+}
+
+.gsix{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-30px;
+  margin-left:-10px;
+}
+
+.gseven{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-25px;
+  margin-left:0px;
+}
+
+.geight{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-20px;
+  margin-left:20px;
+}
+
+.gnine{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:65px;
+  margin-left:20px;
+}
+
+.gten{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-20px;
+  margin-left:40px;
+}
+
+.geleven{
+  background-color:black;
+  width:20px;
+  height:20px;
   margin-top:-105px;
-  margin-left:450px;
+  margin-left:40px;
+}
+
+.gtwelve{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-10px;
+  margin-left:50px;
+}
+
+.gthirteen{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:0px;
+  margin-left:50px;
+}
+
+.gfourteen{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:0px;
+  margin-left:50px;
+}
+
+.gfifteen{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:0px;
+  margin-left:50px;
+}
+
+.gsixteen{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:0px;
+  margin-left:50px;
+}
+
+.gseventeen{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:0px;
+  margin-left:50px;
+}
+
+.geighteen{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:0px;
+  margin-left:50px;
+}
+.gnineteen{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-10px;
+  margin-left:50px;
+}
+
+.gtwenty{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-10px;
+  margin-left:40px;
+}
+
+.gtwentyone{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-20px;
+  margin-left:20px;
+}
+
+.gtwentytwo{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-20px;
+  margin-left:0px;
+}
+
+.gtwentythree{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-30px;
+  margin-left:-10px;
+}
+
+/*.lines-h {
+  background-image: url("h.png");
+  background-size: 100%;
+  width: 112px;
+  height: 220px;
+}*/
+
+.h{
+  margin-top:-75px;
+  margin-left:1040px;
+}
+
+.hone{
+  background-color:black;
+  width:20px;
+  height:20px;
+}
+
+.htwo{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-40px;
+  margin-left:0px;
+}
+
+.hthree{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-40px;
+  margin-left:0px;
+}
+
+.hfour{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-40px;
+  margin-left:0px;
+}
+
+.hfive{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-40px;
+  margin-left:0px;
+}
+
+.hsix{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-40px;
+  margin-left:0px;
+}
+
+.hseven{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-40px;
+  margin-left:0px;
+}
+
+.height{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-40px;
+  margin-left:0px;
+}
+
+.hnine{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:35px;
+  margin-left:20px;
+}
+
+.hten{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-20px;
+  margin-left:40px;
+}
+
+.heleven{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-10px;
+  margin-left:50px;
+}
+
+.htwelve{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:0px;
+  margin-left:50px;
+}
+
+.hthirteen{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:0px;
+  margin-left:50px;
+}
+
+.hfourteen{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:0px;
+  margin-left:50px;
+}
+
+.hfifteen{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-5px;
+  margin-left:50px;
+}
+
+/*.lines-i {
+  background-image: url("i.png");
+  background-size: 100%;
+  width: 112px;
+  height: 220px;
+}*/
+
+.i{
+  margin-top:-105px;
+  margin-left:1160px;
+}
+
+.ione{
+  background-color:black;
+  width:20px;
+  height:20px;
+}
+
+.itwo{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:0px;
+  margin-left:0px;
+}
+
+.ithree{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:0px;
+  margin-left:0px;
+}
+
+.ifour{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:0px;
+  margin-left:0px;
+}
+
+.ifive{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:0px;
+  margin-left:0px;
+}
+
+.isix{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-15px;
+  margin-left:0px;
+}
+
+.iseven{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-160px;
+  margin-left:0px;
+}
+
+.ieight{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-15px;
+  margin-left:0px;
+}
+
+/*.lines-j {
+  background-image: url("j.png");
+  background-size: 100%;
+  width: 112px;
+  height: 220px;
+}*/
+
+.j{
+  margin-top:0px;
+  margin-left:1250px;
+}
+
+.jone{
+  background-color:black;
+  width:20px;
+  height:20px;
+}
+
+.jtwo{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:0px;
+  margin-left:0px;
+}
+
+.jthree{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:0px;
+  margin-left:0px;
+}
+
+.jfour{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:0px;
+  margin-left:0px;
+}
+
+.jfive{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:0px;
+  margin-left:0px;
+}
+
+.jsix{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:0px;
+  margin-left:0px;
+}
+
+.jseven{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:0px;
+  margin-left:0px;
+}
+
+.jeight{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:0px;
+  margin-left:0px;
+}
+
+.jnine{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-10px;
+  margin-left:-10px;
+}
+
+.jten{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-20px;
+  margin-left:-30px;
+}
+
+.jeleven{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-20px;
+  margin-left:-40px;
+}
+
+.jtwelve{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-20px;
+  margin-left:-40px;
+}
+
+.jthirteen{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-30px;
+  margin-left:-50px;
+}
+
+.jfourteen{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-210px;
+  margin-left:0px;
+}
+
+.jfifteen{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-25px;
+  margin-left:0px;
+}
+
+/*.lines-k {
+  background-image: url("k.png");
+  background-size: 100%;
+  width: 112px;
+  height: 220px;
+}*/
+
+.k{
+  margin-top:200px;
+  margin-left:100px;
+}
+
+.kone{
+  background-color:black;
+  width:20px;
+  height:20px;
+}
+
+.ktwo{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:0px;
+  margin-left:0px;
+}
+
+.kthree{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:0px;
+  margin-left:0px;
+}
+
+.kfour{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:0px;
+  margin-left:0px;
+}
+
+.kfive{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:0px;
+  margin-left:0px;
+}
+
+.ksix{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:0px;
+  margin-left:0px;
+}
+
+.kseven{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:0px;
+  margin-left:0px;
+}
+
+.keight{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:0px;
+  margin-left:0px;
+}
+
+.knine{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-80px;
+  margin-left:20px;
+}
+
+.kten{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-25px;
+  margin-left:35px;
+}
+
+.keleven{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-30px;
+  margin-left:45px;
+}
+
+.ktwelve{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:10px;
+  margin-left:30px;
+}
+
+.kthirteen{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-5px;
+  margin-left:40px;
+}
+
+.kfourteen{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-5px;
+  margin-left:50px;
+}
+
+.kfifteen{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-5px;
+  margin-left:60px;
+}
+
+/*.lines-l {
+  background-image: url("l.png");
+  background-size: 100%;
+  width: 112px;
+  height: 220px;
+}*/
+
+.l{
+  margin-top:-20px;
+  margin-left:230px;
+}
+
+.lone{
+  background-color:black;
+  width:20px;
+  height:20px;
+}
+
+.ltwo{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-40px;
+  margin-left:0px;
+}
+
+.lthree{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-40px;
+  margin-left:0px;
+}
+
+.lfour{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-40px;
+  margin-left:0px;
+}
+
+.lfive{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-40px;
+  margin-left:0px;
+}
+
+.lsix{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-40px;
+  margin-left:0px;
+}
+
+.lseven{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-40px;
+  margin-left:0px;
+}
+
+.leight{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-40px;
+  margin-left:0px;
+}
+
+.lnine{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:120px;
+  margin-left:10px;
+}
+
+/*.lines-m {
+  background-image: url("m.png");
+  background-size: 100%;
+  width: 112px;
+  height: 220px;
+}*/
+
+.m{
+  margin-top:-105px;
+  margin-left:320px;
+}
+
+.mone{
+  background-color:black;
+  width:20px;
+  height:20px;
+}
+
+.mtwo{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:0px;
+  margin-left:0px;
+}
+
+.mthree{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:0px;
+  margin-left:0px;
+}
+
+.mfour{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:0px;
+  margin-left:0px;
+}
+
+.mfive{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:0px;
+  margin-left:0px;
+}
+
+.msix{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-15px;
+  margin-left:0px;
+}
+
+.mseven{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-95px;
+  margin-left:10px;
+}
+
+.meight{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-30px;
+  margin-left:25px;
+}
+
+.mnine{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-20px;
+  margin-left:30px;
+}
+
+.mten{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-15px;
+  margin-left:40px;
+}
+
+.meleven{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-5px;
+  margin-left:40px;
+}
+
+.mtwelve{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-5px;
+  margin-left:40px;
+}
+
+.mthirteen{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-5px;
+  margin-left:40px;
+}
+
+.mfourteen{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-5px;
+  margin-left:40px;
+}
+
+.mfifteen{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:0px;
+  margin-left:40px;
+}
+
+.msixteen{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-105px;
+  margin-left:60px;
+}
+
+.mseventeen{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-15px;
+  margin-left:80px;
+}
+
+.meighteen{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:0px;
+  margin-left:80px;
+}
+
+.mnineteen{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:0px;
+  margin-left:80px;
+}
+
+.mtwenty{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:0px;
+  margin-left:80px;
+}
+
+.mtwentyone{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:0px;
+  margin-left:80px;
+}
+
+/*.lines-n {
+  background-image: url("n.png");
+  background-size: 100%;
+  width: 112px;
+  height: 220px;
+}*/
+
+.n{
+  margin-top:-105px;
+  margin-left:470px;
+}
+
+.none{
+  background-color:black;
+  width:20px;
+  height:20px;
+}
+
+.ntwo{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:0px;
+  margin-left:0px;
+}
+
+.nthree{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:0px;
+  margin-left:0px;
+}
+
+.nfour{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:0px;
+  margin-left:0px;
+}
+
+.nfive{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:0px;
+  margin-left:0px;
+}
+
+.nsix{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-15px;
+  margin-left:0px;
+}
+
+.nseven{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-100px;
+  margin-left:10px;
+}
+
+.neight{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-25px;
+  margin-left:25px;
+}
+
+.nnine{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-20px;
+  margin-left:40px;
+}
+
+.nten{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-20px;
+  margin-left:45px;
+}
+
+.neleven{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-15px;
+  margin-left:50px;
+}
+
+.ntwelve{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:0px;
+  margin-left:50px;
+}
+
+.nthirteen{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:0px;
+  margin-left:50px;
+}
+
+.nfourteen{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:0px;
+  margin-left:50px;
+}
+
+.nfifteen{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:0px;
+  margin-left:50px;
+}
+
+/*.lines-o {
+  background-image: url("o.png");
+  background-size: 100%;
+  width: 112px;
+  height: 220px;
+}*/
+
+.o{
+  margin-top:-105px;
+  margin-left:590px;
+}
+
+.oone{
+  background-color:black;
+  width:20px;
+  height:20px;
+}
+
+.otwo{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:0px;
+  margin-left:-10px;
+}
+
+.othree{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:0px;
+  margin-left:-10px;
+}
+
+.ofour{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:0px;
+  margin-left:-10px;
+}
+
+.ofive{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:0px;
+  margin-left:-10px;
+}
+
+.osix{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-15px;
+  margin-left:0px;
+}
+
+.oseven{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-105px;
+  margin-left:20px;
+}
+
+.oeight{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:65px;
+  margin-left:20px;
+}
+
+.onine{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-105px;
+  margin-left:40px;
+}
+
+.oten{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:40px;
+  margin-left:50px;
+}
+
+.oeleven{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-40px;
+  margin-left:50px;
+}
+
+.otwelve{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:25px;
+  margin-left:40px;
+}
+
+.othirteen{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-25px;
+  margin-left:50px;
+}
+
+.ofourteen{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-80px;
+  margin-left:50px;
+}
+
+/*.lines-p {
+  background-image: url("p.png");
+  background-size: 100%;
+  width: 112px;
+  height: 220px;
+}*/
+
+.p{
+  margin-top:-40px;
+  margin-left:700px;
+}
+
+.pone{
+  background-color:black;
+  width:20px;
+  height:20px;
+}
+
+.ptwo{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:0px;
+  margin-left:0px;
+}
+
+.pthree{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:0px;
+  margin-left:0px;
+}
+
+.pfour{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:0px;
+  margin-left:0px;
+}
+
+.pfive{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:0px;
+  margin-left:0px;
+}
+
+.psix{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:0px;
+  margin-left:0px;
+}
+
+.pseven{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:0px;
+  margin-left:0px;
+}
+
+.peight{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-10px;
+  margin-left:0px;
+}
+
+.pnine{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-140px;
+  margin-left:10px;
+}
+
+.pten{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-30px;
+  margin-left:30px;
+}
+
+.peleven{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-20px;
+  margin-left:50px;
+}
+
+.ptwelve{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-10px;
+  margin-left:60px;
+}
+
+.pthirteen{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:0px;
+  margin-left:60px;
+}
+
+.pfourteen{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:0px;
+  margin-left:60px;
+}
+
+.pfifteen{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:0px;
+  margin-left:60px;
+}
+
+.psixteen{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-5px;
+  margin-left:55px;
+}
+
+.pseventeen{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-20px;
+  margin-left:35px;
+}
+
+.peighteen{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-20px;
+  margin-left:15px;
+}
+
+/*.lines-q {
+  background-image: url("q.png");
+  background-size: 100%;
+  width: 112px;
+  height: 220px;
+}*/
+
+.q{
+  margin-top:-105px;
+  margin-left:830px;
+}
+
+.qone{
+  background-color:black;
+  width:20px;
+  height:20px;
+}
+
+.qtwo{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:0px;
+  margin-left:-10px;
+}
+
+.qthree{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:0px;
+  margin-left:-10px;
+}
+
+.qfour{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:0px;
+  margin-left:-10px;
+}
+
+.qfive{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-10px;
+  margin-left:-10px;
+}
+
+.qsix{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-5px;
+  margin-left:0px;
+}
+
+.qseven{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-105px;
+  margin-left:20px;
+}
+
+.qeight{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:65px;
+  margin-left:20px;
+}
+
+.qnine{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-20px;
+  margin-left:40px;
+}
+
+.qten{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-95px;
+  margin-left:40px;
+}
+
+.qeleven{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-30px;
+  margin-left:50px;
+}
+
+.qtwelve{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:0px;
+  margin-left:50px;
+}
+
+.qthirteen{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:0px;
+  margin-left:50px;
+}
+
+.qfourteen{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:0px;
+  margin-left:50px;
+}
+
+.qfifteen{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:0px;
+  margin-left:50px;
+}
+
+.qsixteen{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:0px;
+  margin-left:50px;
+}
+
+.qseventeen{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:0px;
+  margin-left:50px;
+}
+
+.qeighteen{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-15px;
+  margin-left:50px;
+}
+
+.qnineteen{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-10px;
+  margin-left:55px;
+}
+
+.qtwenty{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-20px;
+  margin-left:65px;
+}
+
+/*.lines-r {
+  background-image: url("r.png");
+  background-size: 100%;
+  width: 112px;
+  height: 220px;
+}*/
+
+.r{
+  margin-top:-155px;
+  margin-left:950px;
 }
 
 .rone{
@@ -539,74 +2480,57 @@
   margin-left:35px;
 }
 
-.m{
+/*.lines-s {
+  background-image: url("s.png");
+  background-size: 100%;
+  width: 112px;
+  height: 220px;
+}*/
+
+.s{
   margin-top:-20px;
-  margin-left:600px;
+  margin-left:1060px;
 }
 
-.mone{
+.sone{
   background-color:black;
   width:20px;
   height:20px;
 }
 
-.mtwo{
+.stwo{
   background-color:black;
   width:20px;
   height:20px;
-  margin-top:0px;
-  margin-left:0px;
+  margin-top:-10px;
+  margin-left:-15px;
 }
 
-.mthree{
-  background-color:black;
-  width:20px;
-  height:20px;
-  margin-top:0px;
-  margin-left:0px;
-}
-
-.mfour{
+.sthree{
   background-color:black;
   width:20px;
   height:20px;
   margin-top:0px;
+  margin-left:-15px;
+}
+
+.sfour{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-10px;
   margin-left:0px;
 }
 
-.mfive{
+.sfive{
   background-color:black;
   width:20px;
   height:20px;
-  margin-top:0px;
-  margin-left:0px;
+  margin-top:-60px;
+  margin-left:20px;
 }
 
-.msix{
-  background-color:black;
-  width:20px;
-  height:20px;
-  margin-top:-15px;
-  margin-left:0px;
-}
-
-.mseven{
-  background-color:black;
-  width:20px;
-  height:20px;
-  margin-top:-95px;
-  margin-left:10px;
-}
-
-.meight{
-  background-color:black;
-  width:20px;
-  height:20px;
-  margin-top:-25px;
-  margin-left:25px;
-}
-
-.mnine{
+.ssix{
   background-color:black;
   width:20px;
   height:20px;
@@ -614,11 +2538,1111 @@
   margin-left:30px;
 }
 
-.mten{
+.sseven{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-10px;
+  margin-left:40px;
+}
+
+.seight{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:10px;
+  margin-left:20px;
+}
+
+.snine{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-20px;
+  margin-left:30px;
+}
+
+.sten{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-10px;
+  margin-left:40px;
+}
+
+.seleven{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:0px;
+  margin-left:40px;
+}
+
+.stwelve{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-5px;
+  margin-left:35px;
+}
+
+.sthirteen{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-20px;
+  margin-left:15px;
+}
+
+.sfourteen{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-20px;
+  margin-left:-5px;
+}
+
+.sfifteen{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-30px;
+  margin-left:-15px;
+}
+
+/*.lines-t {
+  background-image: url("t.png");
+  background-size: 100%;
+  width: 112px;
+  height: 220px;
+}*/
+
+.t{
+  margin-top:-10px;
+  margin-left:1200px;
+}
+
+.tone{
+  background-color:black;
+  width:20px;
+  height:20px;
+}
+
+.ttwo{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-40px;
+  margin-left:0px;
+}
+
+.tthree{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-40px;
+  margin-left:0px;
+}
+
+.tfour{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-40px;
+  margin-left:0px;
+}
+
+.tfive{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-40px;
+  margin-left:0px;
+}
+
+.tsix{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-40px;
+  margin-left:0px;
+}
+
+.tseven{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-40px;
+  margin-left:0px;
+}
+
+.teight{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-30px;
+  margin-left:0px;
+}
+
+.tnine{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:25px;
+  margin-left:-20px;
+}
+
+.tten{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-20px;
+  margin-left:20px;
+}
+
+.televen{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:65px;
+  margin-left:20px;
+}
+
+.ttwelve{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-30px;
+  margin-left:30px;
+}
+
+/*.lines-u {
+  background-image: url("u.png");
+  background-size: 100%;
+  width: 112px;
+  height: 220px;
+}*/
+
+.u{
+  margin-top:150px;
+  margin-left:100px;
+}
+
+.uone{
+  background-color:black;
+  width:20px;
+  height:20px;
+}
+
+.utwo{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:0px;
+  margin-left:0px;
+}
+
+.uthree{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:0px;
+  margin-left:0px;
+}
+
+.ufour{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:0px;
+  margin-left:0px;
+}
+
+.ufive{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-10px;
+  margin-left:5px;
+}
+
+.usix{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-5px;
+  margin-left:5px;
+}
+
+.useven{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-20px;
+  margin-left:20px;
+}
+
+.ueight{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-20px;
+  margin-left:40px;
+}
+
+.unine{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-30px;
+  margin-left:55px;
+}
+
+.uten{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-40px;
+  margin-left:60px;
+}
+
+.ueleven{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:10px;
+  margin-left:70px;
+}
+
+.utwelve{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-40px;
+  margin-left:70px;
+}
+
+.uthirteen{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-40px;
+  margin-left:70px;
+}
+
+.ufourteen{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-40px;
+  margin-left:70px;
+}
+
+.ufifteen{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-40px;
+  margin-left:70px;
+}
+
+.usixteen{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-25px;
+  margin-left:70px;
+}
+
+/*.lines-v {
+  background-image: url("v.png");
+  background-size: 100%;
+  width: 112px;
+  height: 220px;
+}*/
+
+.v{
+  margin-top:65px;
+  margin-left:270px;
+}
+
+.vone{
+  background-color:black;
+  width:20px;
+  height:20px;
+}
+
+.vtwo{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-20px;
+  margin-left:-5px;
+}
+
+.vthree{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-30px;
+  margin-left:-15px;
+}
+
+.vfour{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-20px;
+  margin-left:10px;
+}
+
+.vfive{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-30px;
+  margin-left:-20px;
+}
+
+.vsix{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-20px;
+  margin-left:15px;
+}
+
+.vseven{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-30px;
+  margin-left:-25px;
+}
+
+.veight{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-20px;
+  margin-left:20px;
+}
+
+.vnine{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-30px;
+  margin-left:-30px;
+}
+
+.vten{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-20px;
+  margin-left:25px;
+}
+
+.veleven{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-30px;
+  margin-left:-35px;
+}
+
+.vtwelve{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-20px;
+  margin-left:30px;
+}
+
+.vthirteen{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-30px;
+  margin-left:-40px;
+}
+
+.vfourteen{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-20px;
+  margin-left:35px;
+}
+
+.vfifteen{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-30px;
+  margin-left:-45px;
+}
+
+.vsixteen{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-20px;
+  margin-left:40px;
+}
+
+.vseventeen{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-35px;
+  margin-left:-45px;
+}
+
+.veighteen{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-20px;
+  margin-left:40px;
+}
+
+/*.lines-w {
+  background-image: url("w.png");
+  background-size: 100%;
+  width: 112px;
+  height: 220px;
+}*/
+
+.w{
+  margin-top:0px;
+  margin-left:400px;
+}
+
+.wone{
+  background-color:black;
+  width:20px;
+  height:20px;
+}
+
+.wtwo{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-20px;
+  margin-left:-5px;
+}
+
+.wthree{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-30px;
+  margin-left:-10px;
+}
+
+.wfour{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-40px;
+  margin-left:-15px;
+}
+
+.wfive{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-40px;
+  margin-left:-20px;
+}
+
+.wsix{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-40px;
+  margin-left:-25px;
+}
+
+.wseven{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-35px;
+  margin-left:-30px;
+}
+
+.weight{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-20px;
+  margin-left:35px;
+}
+
+.wnine{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-20px;
+  margin-left:40px;
+}
+
+.wten{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:0px;
+  margin-left:25px;
+}
+
+.weleven{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-20px;
+  margin-left:50px;
+}
+
+.wtwelve{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:0px;
+  margin-left:50px;
+}
+
+.wthirteen{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-20px;
+  margin-left:25px;
+}
+
+.wfourteen{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:0px;
+  margin-left:50px;
+}
+
+.wfifteen{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-20px;
+  margin-left:25px;
+}
+
+.wsixteen{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:0px;
+  margin-left:55px;
+}
+
+.wseventeen{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-20px;
+  margin-left:20px;
+}
+
+.weighteen{
   background-color:black;
   width:20px;
   height:20px;
   margin-top:-15px;
+  margin-left:75px;
+}
+
+.wnineteen{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-20px;
+  margin-left:80px;
+}
+
+
+.wtwenty{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-30px;
+  margin-left:85px;
+}
+
+.wtwentyone{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-40px;
+  margin-left:90px;
+}
+
+.wtwentytwo{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-40px;
+  margin-left:95px;
+}
+
+.wtwentythree{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-40px;
+  margin-left:100px;
+}
+
+.wtwentyfour{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-35px;
+  margin-left:105px;
+}
+
+/*.lines-x {
+  background-image: url("x.png");
+  background-size: 100%;
+  width: 112px;
+  height: 220px;
+}*/
+
+.x{
+  margin-top:0px;
+  margin-left:570px;
+}
+
+.xone{
+  background-color:black;
+  width:20px;
+  height:20px;
+}
+
+.xtwo{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-20px;
+  margin-left:100px;
+}
+
+.xthree{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-30px;
+  margin-left:90px;
+}
+
+.xfour{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-20px;
+  margin-left:10px;
+}
+
+.xfive{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-30px;
+  margin-left:80px;
+}
+
+.xsix{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-20px;
+  margin-left:20px;
+}
+
+.xseven{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-30px;
+  margin-left:35px;
+}
+
+.xeight{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-20px;
+  margin-left:65px;
+}
+
+.xnine{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-35px;
+  margin-left:50px;
+}
+
+.xten{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-35px;
+  margin-left:35px;
+}
+
+.xeleven{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-20px;
+  margin-left:65px;
+}
+
+.xtwelve{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-30px;
+  margin-left:25px;
+}
+
+.xthirteen{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-20px;
+  margin-left:75px;
+}
+
+.xfourteen{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-30px;
+  margin-left:15px;
+}
+
+.xfifteen{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-20px;
+  margin-left:85px;
+}
+
+.xsixteen{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-25px;
+  margin-left:5px;
+}
+
+.xseventeen{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-20px;
+  margin-left:95px;
+}
+
+/*.lines-y {
+  background-image: url("y.png");
+  background-size: 100%;
+  width: 112px;
+  height: 220px;
+}*/
+
+.y{
+  margin-top:-85px;
+  margin-left:740px;
+}
+
+.yone{
+  background-color:black;
+  width:20px;
+  height:20px;
+}
+
+.ytwo{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-20px;
+  margin-left:80px;
+}
+
+.ythree{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-3px;
+  margin-left:5px;
+}
+
+.yfour{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-20px;
+  margin-left:75px;
+}
+
+.yfive{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-3px;
+  margin-left:10px;
+}
+
+.ysix{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-20px;
+  margin-left:70px;
+}
+
+.yseven{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-3px;
+  margin-left:15px;
+}
+
+.yeight{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-20px;
+  margin-left:65px;
+}
+
+.ynine{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-10px;
+  margin-left:35px;
+}
+
+.yten{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-20px;
+  margin-left:25px;
+}
+
+.yeleven{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-20px;
+  margin-left:55px;
+}
+
+.ytwelve{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-2px;
   margin-left:40px;
 }
 
+.ythirteen{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-5px;
+  margin-left:35px;
+}
+
+.yfourteen{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-5px;
+  margin-left:25px;
+}
+
+.yfifteen{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-5px;
+  margin-left:15px;
+}
+
+.ysixteen{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-20px;
+  margin-left:0px;
+}
+
+/*.lines-z {
+  background-image: url("z.png");
+  background-size: 100%;
+  width: 112px;
+  height: 220px;
+}*/
+
+.z{
+  margin-top:-145px;
+  margin-left:890px;
+}
+
+.zone{
+  background-color:black;
+  width:20px;
+  height:20px;
+}
+
+.ztwo{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-20px;
+  margin-left:20px;
+}
+
+.zthree{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-20px;
+  margin-left:40px;
+}
+
+.zfour{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-20px;
+  margin-left:60px;
+}
+
+.zfive{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-20px;
+  margin-left:70px;
+}
+
+.zseven{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-10px;
+  margin-left:60px;
+}
+
+.zeight{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:0px;
+  margin-left:50px;
+}
+
+.znine{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-10px;
+  margin-left:40px;
+}
+
+.zten{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-10px;
+  margin-left:30px;
+}
+
+.zeleven{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-10px;
+  margin-left:20px;
+}
+
+.ztwelve{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-10px;
+  margin-left:10px;
+}
+
+.zthirteen{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-10px;
+  margin-left:0px;
+}
+
+.zfourteen{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-10px;
+  margin-left:0px;
+}
+
+.zfifteen{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-20px;
+  margin-left:20px;
+}
+
+.zsixteen{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-20px;
+  margin-left:40px;
+}
+
+.zseventeen{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-20px;
+  margin-left:60px;
+}
+
+.zeighteen{
+  background-color:black;
+  width:20px;
+  height:20px;
+  margin-top:-20px;
+  margin-left:70px;
+}
+
+
+.hello{
+  margin-top:500px;
+  margin-left:0px;
+}
