@@ -173,7 +173,7 @@ function rotateMonth(){
   var now = new Date();
   var month = now.getMonth();
   //console.log(second);
-  $('.month').css('transform','rotate(' + date*12 + 1+ 'deg)');
+  $('.month').css('transform','rotate(' + month*30 + 'deg)');
 }
 
 function rotateYear(){
