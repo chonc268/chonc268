@@ -1,93 +1,16 @@
-@font-face {
-  font-family: "AkzidenzGroteskStd-Regular";
-  src: url("../≥≥fonts/AkzidenzGroteskStd-Regular.otf") format("opentype");
-}
-
-body {
-  background-color: #F5CB08;
-  width:1px;
-  height:1px;
-  margin-top:30px;
-  margin-left:170px;
-}
-
-p{
-  font-family: AkzidenzGroteskStd-Regular;
-  margin-left: 90px;
-  text-align:center;
-  width:950px;
-  font-size:40px;
-}
-
-.abc{
-  margin-top:250px;
-  margin-left:-100px;
-  width:1300px;
-}
-
-.icecream{
-  margin-top:-20px;
-  margin-left:-30px;
-  width:500px;
-}
-
-.sun{
-  margin-top:-2500px;
-  margin-bottom:130px;
-  margin-left:600px;
-  width:550px;
-}
-
-
-.year {
-  margin-top:220px;
-  padding-left:50px;
-}
-
-.month {
-  margin-top:200px;
-  margin-left:600px;
-}
-
-.date {
-  margin-top:50px;
-  margin-left:980px;
-}
-
-.hour {
-  margin-top:180px;
-  margin-left:-30px;
-}
-
-.minute {
-  margin-top:270px;
-  margin-left:650px;
-  width:165px;
-  padding-left:10px;
-}
-
-.second {
-  margin-top:15px;
-  margin-left:395px;
-}
-
-.random {
-  background-color: #000;
-}
-
 .letter-definition {
   display: none;
 }
 
 .letter {
-  height: 20px;
+  height: 220px;
   display: inline-block;
   margin: 8px;
 }
 
 .space {
-  width: 0px;
-  height: 0px;
+  width: 112px;
+  height: 220px;
 }
 
 /*.lines-a {
@@ -97,25 +20,20 @@ p{
   height: 220px;
 }*/
 
-.a1{
-  margin-top:-97px;
-  margin-left:290px;
-}
-
-.a3{
-  margin-top:-85px;
-  margin-left:160px;
+.a{
+  margin-top:100px;
+  margin-left:100px;
 }
 
 .aone{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
 }
 
 .atwo{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-23px;
   margin-left:20px;
@@ -123,7 +41,7 @@ p{
 
 .athree{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-20px;
   margin-left:40px;
@@ -131,7 +49,7 @@ p{
 
 .afour{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-17px;
   margin-left:60px;
@@ -139,7 +57,7 @@ p{
 
 .afive{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-10px;
   margin-left:-5px;
@@ -147,7 +65,7 @@ p{
 
 .asix{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-15px;
   margin-left:65px;
@@ -155,7 +73,7 @@ p{
 
 .aseven{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:0px;
   margin-left:65px;
@@ -163,7 +81,7 @@ p{
 
 .aeight{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:0px;
   margin-left:65px;
@@ -171,7 +89,7 @@ p{
 
 .anine{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:0px;
   margin-left:65px;
@@ -179,7 +97,7 @@ p{
 
 .aten{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-10px;
   margin-left:65px;
@@ -187,7 +105,7 @@ p{
 
 .aeleven{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-60px;
   margin-left:-5px;
@@ -195,7 +113,7 @@ p{
 
 .atwelve{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-25px;
   margin-left:10px;
@@ -203,7 +121,7 @@ p{
 
 .athirteen{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-20px;
   margin-left:30px;
@@ -211,7 +129,7 @@ p{
 
 .afourteen{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-20px;
   margin-left:50px;
@@ -219,7 +137,7 @@ p{
 
 .afifteen{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:5px;
   margin-left:-10px;
@@ -227,7 +145,7 @@ p{
 
 .asixteen{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-5px;
   margin-left:-5px;
@@ -235,7 +153,7 @@ p{
 
 .aseventeen{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-15px;
   margin-left:10px;
@@ -243,7 +161,7 @@ p{
 
 .aeighteen{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-20px;
   margin-left:30px;
@@ -251,7 +169,7 @@ p{
 
 .anineteen{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-20px;
   margin-left:50px;
@@ -271,13 +189,13 @@ p{
 
 .bone{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
 }
 
 .btwo{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-20px;
   margin-left:-15px;
@@ -285,7 +203,7 @@ p{
 
 .bthree{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-20px;
   margin-left:20px;
@@ -293,7 +211,7 @@ p{
 
 .bfour{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-30px;
   margin-left:35px;
@@ -301,7 +219,7 @@ p{
 
 .bfive{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-40px;
   margin-left:35px;
@@ -309,7 +227,7 @@ p{
 
 .bsix{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-40px;
   margin-left:35px;
@@ -317,7 +235,7 @@ p{
 
 .bseven{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-40px;
   margin-left:35px;
@@ -325,7 +243,7 @@ p{
 
 .beight{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-35px;
   margin-left:20px;
@@ -333,7 +251,7 @@ p{
 
 .bnine{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-20px;
   margin-left:0px;
@@ -341,7 +259,7 @@ p{
 
 .bten{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-20px;
   margin-left:-10px;
@@ -349,7 +267,7 @@ p{
 
 .beleven{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:65px;
   margin-left:-30px;
@@ -357,7 +275,7 @@ p{
 
 .btwelve{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-40px;
   margin-left:-30px;
@@ -365,7 +283,7 @@ p{
 
 .bthirteen{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-40px;
   margin-left:-30px;
@@ -373,7 +291,7 @@ p{
 
 .bfourteen{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-40px;
   margin-left:-30px;
@@ -381,7 +299,7 @@ p{
 
 .bfifteen{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-40px;
   margin-left:-30px;
@@ -389,7 +307,7 @@ p{
 
 .bsixteen{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-40px;
   margin-left:-30px;
@@ -397,7 +315,7 @@ p{
 
 .bseventeen{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-40px;
   margin-left:-30px;
@@ -405,7 +323,7 @@ p{
 
 .beighteen{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-40px;
   margin-left:-30px;
@@ -418,20 +336,20 @@ p{
   height: 220px;
 }*/
 
-.c6{
-  margin-top:-17px;
-  margin-left:210px;
+.c{
+  margin-top:0px;
+  margin-left:380px;
 }
 
 .cone{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
 }
 
 .ctwo{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-30px;
   margin-left:-15px;
@@ -439,7 +357,7 @@ p{
 
 .cthree{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-40px;
   margin-left:-15px;
@@ -447,7 +365,7 @@ p{
 
 .cfour{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-40px;
   margin-left:-15px;
@@ -455,7 +373,7 @@ p{
 
 .cfive{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-40px;
   margin-left:-15px;
@@ -463,7 +381,7 @@ p{
 
 .csix{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-30px;
   margin-left:0px;
@@ -471,7 +389,7 @@ p{
 
 .cseven{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-20px;
   margin-left:20px;
@@ -479,7 +397,7 @@ p{
 
 .ceight{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:60px;
   margin-left:20px;
@@ -487,7 +405,7 @@ p{
 
 .cnine{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-100px;
   margin-left:40px;
@@ -495,7 +413,7 @@ p{
 
 .cten{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:60px;
   margin-left:40px;
@@ -503,7 +421,7 @@ p{
 
 .celeven{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-90px;
   margin-left:50px;
@@ -511,7 +429,7 @@ p{
 
 .ctwelve{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:40px;
   margin-left:50px;
@@ -524,25 +442,20 @@ p{
   height: 220px;
 }*/
 
-.d3{
-  margin-top:0px;
-  margin-left:50px;
-}
-
-.d6{
-  margin-top:-20px;
-  margin-left:500px;
+.d{
+  margin-top:-10px;
+  margin-left:520px;
 }
 
 .done{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
 }
 
 .dtwo{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-30px;
   margin-left:-15px;
@@ -550,7 +463,7 @@ p{
 
 .dthree{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-40px;
   margin-left:-15px;
@@ -558,7 +471,7 @@ p{
 
 .dfour{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-40px;
   margin-left:-15px;
@@ -566,7 +479,7 @@ p{
 
 .dfive{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-40px;
   margin-left:-15px;
@@ -574,7 +487,7 @@ p{
 
 .dsix{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-30px;
   margin-left:0px;
@@ -582,7 +495,7 @@ p{
 
 .dfive{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-40px;
   margin-left:-15px;
@@ -590,7 +503,7 @@ p{
 
 .dsix{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-30px;
   margin-left:0px;
@@ -598,7 +511,7 @@ p{
 
 .dseven{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-20px;
   margin-left:20px;
@@ -606,7 +519,7 @@ p{
 
 .deight{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:60px;
   margin-left:20px;
@@ -614,7 +527,7 @@ p{
 
 .dnine{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-20px;
   margin-left:40px;
@@ -622,7 +535,7 @@ p{
 
 .dten{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-100px;
   margin-left:40px;
@@ -630,7 +543,7 @@ p{
 
 .deleven{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:60px;
   margin-left:50px;
@@ -638,7 +551,7 @@ p{
 
 .dtwelve{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-40px;
   margin-left:50px;
@@ -646,7 +559,7 @@ p{
 
 .dthirteen{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-40px;
   margin-left:50px;
@@ -654,7 +567,7 @@ p{
 
 .dfourteen{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-40px;
   margin-left:50px;
@@ -662,7 +575,7 @@ p{
 
 .dfifteen{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-40px;
   margin-left:50px;
@@ -670,7 +583,7 @@ p{
 
 .dsixteen{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-40px;
   margin-left:50px;
@@ -678,7 +591,7 @@ p{
 
 .dseventeen{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-40px;
   margin-left:50px;
@@ -686,7 +599,7 @@ p{
 
 .deighteen{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-40px;
   margin-left:50px;
@@ -699,30 +612,20 @@ p{
   height: 220px;
 }*/
 
-.e1{
-  margin-top:-144px;
-  margin-left:195px;
-}
-
-.e5{
-  margin-top:-92px;
-  margin-left:480px;
-}
-
-.e6{
-  margin-top:-92px;
-  margin-left:120px;
+.e{
+  margin-top:-80px;
+  margin-left:690px;
 }
 
 .eone{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
 }
 
 .etwo{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-20px;
   margin-left:-15px;
@@ -730,7 +633,7 @@ p{
 
 .ethree{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-20px;
   margin-left:20px;
@@ -738,7 +641,7 @@ p{
 
 .efour{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-10px;
   margin-left:30px;
@@ -746,7 +649,7 @@ p{
 
 .efive{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-20px;
   margin-left:-30px;
@@ -754,7 +657,7 @@ p{
 
 .esix{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-10px;
   margin-left:35px;
@@ -762,7 +665,7 @@ p{
 
 .eseven{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-20px;
   margin-left:-40px;
@@ -770,7 +673,7 @@ p{
 
 .eeight{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:0px;
   margin-left:40px;
@@ -778,7 +681,7 @@ p{
 
 .enine{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-20px;
   margin-left:-45px;
@@ -786,7 +689,7 @@ p{
 
 .eten{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-20px;
   margin-left:-25px;
@@ -794,7 +697,7 @@ p{
 
 .eeleven{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-20px;
   margin-left:-5px;
@@ -802,7 +705,7 @@ p{
 
 .etwelve{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-20px;
   margin-left:15px;
@@ -810,7 +713,7 @@ p{
 
 .ethirteen{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-20px;
   margin-left:30px;
@@ -818,7 +721,7 @@ p{
 
 .efourteen{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-0px;
   margin-left:-40px;
@@ -826,7 +729,7 @@ p{
 
 .efifteen{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-18px;
   margin-left:-40px;
@@ -834,7 +737,7 @@ p{
 
 .esixteen{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-5px;
   margin-left:-30px;
@@ -842,7 +745,7 @@ p{
 
 .eseventeen{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-15px;
   margin-left:-20px;
@@ -850,7 +753,7 @@ p{
 
 .eeighteen{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-20px;
   margin-left:-10px;
@@ -858,7 +761,7 @@ p{
 
 .enineteen{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-20px;
   margin-left:10px;
@@ -866,7 +769,7 @@ p{
 
 .etwenty{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-20px;
   margin-left:25px;
@@ -874,7 +777,7 @@ p{
 
 .etwentyone{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-23px;
   margin-left:37px;
@@ -882,7 +785,7 @@ p{
 
 .e22{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-25px;
   margin-left:48px;
@@ -902,13 +805,13 @@ p{
 
 .fone{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
 }
 
 .ftwo{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-40px;
   margin-left:0px;
@@ -916,7 +819,7 @@ p{
 
 .fthree{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-40px;
   margin-left:0px;
@@ -924,7 +827,7 @@ p{
 
 .ffour{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-40px;
   margin-left:0px;
@@ -932,7 +835,7 @@ p{
 
 .ffive{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-40px;
   margin-left:0px;
@@ -940,7 +843,7 @@ p{
 
 .fsix{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-40px;
   margin-left:0px;
@@ -948,7 +851,7 @@ p{
 
 .fseven{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-40px;
   margin-left:0px;
@@ -956,7 +859,7 @@ p{
 
 .feight{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-40px;
   margin-left:0px;
@@ -964,7 +867,7 @@ p{
 
 .fnine{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-20px;
   margin-left:0px;
@@ -972,7 +875,7 @@ p{
 
 .ften{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-25px;
   margin-left:20px;
@@ -980,7 +883,7 @@ p{
 
 .feleven{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-20px;
   margin-left:30px;
@@ -988,7 +891,7 @@ p{
 
 .ftwelve{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:40px;
   margin-left:20px;
@@ -996,7 +899,7 @@ p{
 
 .fthirteen{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-20px;
   margin-left:-20px;
@@ -1016,13 +919,13 @@ p{
 
 .gone{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
 }
 
 .gtwo{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-30px;
   margin-left:-10px;
@@ -1030,7 +933,7 @@ p{
 
 .gthree{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-40px;
   margin-left:-10px;
@@ -1038,7 +941,7 @@ p{
 
 .gfour{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-40px;
   margin-left:-10px;
@@ -1046,7 +949,7 @@ p{
 
 .gfive{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-40px;
   margin-left:-10px;
@@ -1054,7 +957,7 @@ p{
 
 .gsix{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-30px;
   margin-left:-10px;
@@ -1062,7 +965,7 @@ p{
 
 .gseven{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-25px;
   margin-left:0px;
@@ -1070,7 +973,7 @@ p{
 
 .geight{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-20px;
   margin-left:20px;
@@ -1078,7 +981,7 @@ p{
 
 .gnine{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:65px;
   margin-left:20px;
@@ -1086,7 +989,7 @@ p{
 
 .gten{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-20px;
   margin-left:40px;
@@ -1094,7 +997,7 @@ p{
 
 .geleven{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-105px;
   margin-left:40px;
@@ -1102,7 +1005,7 @@ p{
 
 .gtwelve{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-10px;
   margin-left:50px;
@@ -1110,7 +1013,7 @@ p{
 
 .gthirteen{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:0px;
   margin-left:50px;
@@ -1118,7 +1021,7 @@ p{
 
 .gfourteen{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:0px;
   margin-left:50px;
@@ -1126,7 +1029,7 @@ p{
 
 .gfifteen{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:0px;
   margin-left:50px;
@@ -1134,7 +1037,7 @@ p{
 
 .gsixteen{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:0px;
   margin-left:50px;
@@ -1142,7 +1045,7 @@ p{
 
 .gseventeen{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:0px;
   margin-left:50px;
@@ -1150,14 +1053,14 @@ p{
 
 .geighteen{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:0px;
   margin-left:50px;
 }
 .gnineteen{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-10px;
   margin-left:50px;
@@ -1165,7 +1068,7 @@ p{
 
 .gtwenty{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-10px;
   margin-left:40px;
@@ -1173,7 +1076,7 @@ p{
 
 .gtwentyone{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-20px;
   margin-left:20px;
@@ -1181,7 +1084,7 @@ p{
 
 .gtwentytwo{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-20px;
   margin-left:0px;
@@ -1189,7 +1092,7 @@ p{
 
 .gtwentythree{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-30px;
   margin-left:-10px;
@@ -1202,24 +1105,20 @@ p{
   height: 220px;
 }*/
 
-.h2{
-  margin-top:-10px;
-  margin-left:430px;
+.h{
+  margin-top:-75px;
+  margin-left:1040px;
 }
 
-.h4{
-  margin-top:-0px;
-  margin-left:90px;
-}
 .hone{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
 }
 
 .htwo{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-40px;
   margin-left:0px;
@@ -1227,7 +1126,7 @@ p{
 
 .hthree{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-40px;
   margin-left:0px;
@@ -1235,7 +1134,7 @@ p{
 
 .hfour{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-40px;
   margin-left:0px;
@@ -1243,7 +1142,7 @@ p{
 
 .hfive{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-40px;
   margin-left:0px;
@@ -1251,7 +1150,7 @@ p{
 
 .hsix{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-40px;
   margin-left:0px;
@@ -1259,7 +1158,7 @@ p{
 
 .hseven{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-40px;
   margin-left:0px;
@@ -1267,7 +1166,7 @@ p{
 
 .height{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-40px;
   margin-left:0px;
@@ -1275,7 +1174,7 @@ p{
 
 .hnine{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:35px;
   margin-left:20px;
@@ -1283,7 +1182,7 @@ p{
 
 .hten{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-20px;
   margin-left:40px;
@@ -1291,7 +1190,7 @@ p{
 
 .heleven{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-10px;
   margin-left:50px;
@@ -1299,7 +1198,7 @@ p{
 
 .htwelve{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:0px;
   margin-left:50px;
@@ -1307,7 +1206,7 @@ p{
 
 .hthirteen{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:0px;
   margin-left:50px;
@@ -1315,7 +1214,7 @@ p{
 
 .hfourteen{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:0px;
   margin-left:50px;
@@ -1323,7 +1222,7 @@ p{
 
 .hfifteen{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-5px;
   margin-left:50px;
@@ -1336,20 +1235,20 @@ p{
   height: 220px;
 }*/
 
-.i5{
+.i{
   margin-top:-105px;
-  margin-left:120px;
+  margin-left:1160px;
 }
 
 .ione{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
 }
 
 .itwo{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:0px;
   margin-left:0px;
@@ -1357,7 +1256,7 @@ p{
 
 .ithree{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:0px;
   margin-left:0px;
@@ -1365,7 +1264,7 @@ p{
 
 .ifour{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:0px;
   margin-left:0px;
@@ -1373,7 +1272,7 @@ p{
 
 .ifive{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:0px;
   margin-left:0px;
@@ -1381,7 +1280,7 @@ p{
 
 .isix{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-15px;
   margin-left:0px;
@@ -1389,7 +1288,7 @@ p{
 
 .iseven{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-160px;
   margin-left:0px;
@@ -1397,7 +1296,7 @@ p{
 
 .ieight{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-15px;
   margin-left:0px;
@@ -1417,13 +1316,13 @@ p{
 
 .jone{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
 }
 
 .jtwo{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:0px;
   margin-left:0px;
@@ -1431,7 +1330,7 @@ p{
 
 .jthree{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:0px;
   margin-left:0px;
@@ -1439,7 +1338,7 @@ p{
 
 .jfour{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:0px;
   margin-left:0px;
@@ -1447,7 +1346,7 @@ p{
 
 .jfive{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:0px;
   margin-left:0px;
@@ -1455,7 +1354,7 @@ p{
 
 .jsix{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:0px;
   margin-left:0px;
@@ -1463,7 +1362,7 @@ p{
 
 .jseven{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:0px;
   margin-left:0px;
@@ -1471,7 +1370,7 @@ p{
 
 .jeight{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:0px;
   margin-left:0px;
@@ -1479,7 +1378,7 @@ p{
 
 .jnine{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-10px;
   margin-left:-10px;
@@ -1487,7 +1386,7 @@ p{
 
 .jten{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-20px;
   margin-left:-30px;
@@ -1495,7 +1394,7 @@ p{
 
 .jeleven{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-20px;
   margin-left:-40px;
@@ -1503,7 +1402,7 @@ p{
 
 .jtwelve{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-20px;
   margin-left:-40px;
@@ -1511,7 +1410,7 @@ p{
 
 .jthirteen{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-30px;
   margin-left:-50px;
@@ -1519,7 +1418,7 @@ p{
 
 .jfourteen{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-210px;
   margin-left:0px;
@@ -1527,7 +1426,7 @@ p{
 
 .jfifteen{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-25px;
   margin-left:0px;
@@ -1547,13 +1446,13 @@ p{
 
 .kone{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
 }
 
 .ktwo{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:0px;
   margin-left:0px;
@@ -1561,7 +1460,7 @@ p{
 
 .kthree{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:0px;
   margin-left:0px;
@@ -1569,7 +1468,7 @@ p{
 
 .kfour{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:0px;
   margin-left:0px;
@@ -1577,7 +1476,7 @@ p{
 
 .kfive{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:0px;
   margin-left:0px;
@@ -1585,7 +1484,7 @@ p{
 
 .ksix{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:0px;
   margin-left:0px;
@@ -1593,7 +1492,7 @@ p{
 
 .kseven{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:0px;
   margin-left:0px;
@@ -1601,7 +1500,7 @@ p{
 
 .keight{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:0px;
   margin-left:0px;
@@ -1609,7 +1508,7 @@ p{
 
 .knine{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-80px;
   margin-left:20px;
@@ -1617,7 +1516,7 @@ p{
 
 .kten{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-25px;
   margin-left:35px;
@@ -1625,7 +1524,7 @@ p{
 
 .keleven{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-30px;
   margin-left:45px;
@@ -1633,7 +1532,7 @@ p{
 
 .ktwelve{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:10px;
   margin-left:30px;
@@ -1641,7 +1540,7 @@ p{
 
 .kthirteen{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-5px;
   margin-left:40px;
@@ -1649,7 +1548,7 @@ p{
 
 .kfourteen{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-5px;
   margin-left:50px;
@@ -1657,7 +1556,7 @@ p{
 
 .kfifteen{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-5px;
   margin-left:60px;
@@ -1677,13 +1576,13 @@ p{
 
 .lone{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
 }
 
 .ltwo{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-40px;
   margin-left:0px;
@@ -1691,7 +1590,7 @@ p{
 
 .lthree{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-40px;
   margin-left:0px;
@@ -1699,7 +1598,7 @@ p{
 
 .lfour{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-40px;
   margin-left:0px;
@@ -1707,7 +1606,7 @@ p{
 
 .lfive{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-40px;
   margin-left:0px;
@@ -1715,7 +1614,7 @@ p{
 
 .lsix{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-40px;
   margin-left:0px;
@@ -1723,7 +1622,7 @@ p{
 
 .lseven{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-40px;
   margin-left:0px;
@@ -1731,7 +1630,7 @@ p{
 
 .leight{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-40px;
   margin-left:0px;
@@ -1739,7 +1638,7 @@ p{
 
 .lnine{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:120px;
   margin-left:10px;
@@ -1752,25 +1651,20 @@ p{
   height: 220px;
 }*/
 
-.m2{
+.m{
   margin-top:-105px;
-  margin-left:40px;
-}
-
-.m5{
-  margin-top:0px;
-  margin-left:0px;
+  margin-left:320px;
 }
 
 .mone{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
 }
 
 .mtwo{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:0px;
   margin-left:0px;
@@ -1778,7 +1672,7 @@ p{
 
 .mthree{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:0px;
   margin-left:0px;
@@ -1786,7 +1680,7 @@ p{
 
 .mfour{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:0px;
   margin-left:0px;
@@ -1794,7 +1688,7 @@ p{
 
 .mfive{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:0px;
   margin-left:0px;
@@ -1802,7 +1696,7 @@ p{
 
 .msix{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-15px;
   margin-left:0px;
@@ -1810,7 +1704,7 @@ p{
 
 .mseven{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-95px;
   margin-left:10px;
@@ -1818,7 +1712,7 @@ p{
 
 .meight{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-30px;
   margin-left:25px;
@@ -1826,7 +1720,7 @@ p{
 
 .mnine{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-20px;
   margin-left:30px;
@@ -1834,7 +1728,7 @@ p{
 
 .mten{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-15px;
   margin-left:40px;
@@ -1842,7 +1736,7 @@ p{
 
 .meleven{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-5px;
   margin-left:40px;
@@ -1850,7 +1744,7 @@ p{
 
 .mtwelve{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-5px;
   margin-left:40px;
@@ -1858,7 +1752,7 @@ p{
 
 .mthirteen{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-5px;
   margin-left:40px;
@@ -1866,7 +1760,7 @@ p{
 
 .mfourteen{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-5px;
   margin-left:40px;
@@ -1874,7 +1768,7 @@ p{
 
 .mfifteen{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:0px;
   margin-left:40px;
@@ -1882,7 +1776,7 @@ p{
 
 .msixteen{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-105px;
   margin-left:60px;
@@ -1890,7 +1784,7 @@ p{
 
 .mseventeen{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-15px;
   margin-left:80px;
@@ -1898,7 +1792,7 @@ p{
 
 .meighteen{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:0px;
   margin-left:80px;
@@ -1906,7 +1800,7 @@ p{
 
 .mnineteen{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:0px;
   margin-left:80px;
@@ -1914,7 +1808,7 @@ p{
 
 .mtwenty{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:0px;
   margin-left:80px;
@@ -1922,7 +1816,7 @@ p{
 
 .mtwentyone{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:0px;
   margin-left:80px;
@@ -1935,30 +1829,20 @@ p{
   height: 220px;
 }*/
 
-.n2{
-  margin-top:-40px;
-  margin-left:260px;
-}
-
-.n5{
-  margin-top:0px;
-  margin-left:160px;
-}
-
-.n6{
-  margin-top:-40px;
-  margin-left:400px;
+.n{
+  margin-top:-105px;
+  margin-left:470px;
 }
 
 .none{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
 }
 
 .ntwo{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:0px;
   margin-left:0px;
@@ -1966,7 +1850,7 @@ p{
 
 .nthree{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:0px;
   margin-left:0px;
@@ -1974,7 +1858,7 @@ p{
 
 .nfour{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:0px;
   margin-left:0px;
@@ -1982,7 +1866,7 @@ p{
 
 .nfive{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:0px;
   margin-left:0px;
@@ -1990,7 +1874,7 @@ p{
 
 .nsix{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-15px;
   margin-left:0px;
@@ -1998,7 +1882,7 @@ p{
 
 .nseven{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-100px;
   margin-left:10px;
@@ -2006,7 +1890,7 @@ p{
 
 .neight{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-25px;
   margin-left:25px;
@@ -2014,7 +1898,7 @@ p{
 
 .nnine{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-20px;
   margin-left:40px;
@@ -2022,7 +1906,7 @@ p{
 
 .nten{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-20px;
   margin-left:45px;
@@ -2030,7 +1914,7 @@ p{
 
 .neleven{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-15px;
   margin-left:50px;
@@ -2038,7 +1922,7 @@ p{
 
 .ntwelve{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:0px;
   margin-left:50px;
@@ -2046,7 +1930,7 @@ p{
 
 .nthirteen{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:0px;
   margin-left:50px;
@@ -2054,7 +1938,7 @@ p{
 
 .nfourteen{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:0px;
   margin-left:50px;
@@ -2062,7 +1946,7 @@ p{
 
 .nfifteen{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:0px;
   margin-left:50px;
@@ -2075,30 +1959,20 @@ p{
   height: 220px;
 }*/
 
-.o2{
+.o{
   margin-top:-105px;
-  margin-left:175px;
-}
-
-.o4{
-  margin-top:-105px;
-  margin-left:185px;
-}
-
-.o6{
-  margin-top:-95px;
-  margin-left:310px;
+  margin-left:590px;
 }
 
 .oone{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
 }
 
 .otwo{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:0px;
   margin-left:-10px;
@@ -2106,7 +1980,7 @@ p{
 
 .othree{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:0px;
   margin-left:-10px;
@@ -2114,7 +1988,7 @@ p{
 
 .ofour{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:0px;
   margin-left:-10px;
@@ -2122,7 +1996,7 @@ p{
 
 .ofive{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:0px;
   margin-left:-10px;
@@ -2130,7 +2004,7 @@ p{
 
 .osix{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-15px;
   margin-left:0px;
@@ -2138,7 +2012,7 @@ p{
 
 .oseven{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-105px;
   margin-left:20px;
@@ -2146,7 +2020,7 @@ p{
 
 .oeight{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:65px;
   margin-left:20px;
@@ -2154,7 +2028,7 @@ p{
 
 .onine{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-105px;
   margin-left:40px;
@@ -2162,7 +2036,7 @@ p{
 
 .oten{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:40px;
   margin-left:50px;
@@ -2170,7 +2044,7 @@ p{
 
 .oeleven{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-40px;
   margin-left:50px;
@@ -2178,7 +2052,7 @@ p{
 
 .otwelve{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:25px;
   margin-left:40px;
@@ -2186,7 +2060,7 @@ p{
 
 .othirteen{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-25px;
   margin-left:50px;
@@ -2194,7 +2068,7 @@ p{
 
 .ofourteen{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-80px;
   margin-left:50px;
@@ -2214,13 +2088,13 @@ p{
 
 .pone{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
 }
 
 .ptwo{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:0px;
   margin-left:0px;
@@ -2228,7 +2102,7 @@ p{
 
 .pthree{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:0px;
   margin-left:0px;
@@ -2236,7 +2110,7 @@ p{
 
 .pfour{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:0px;
   margin-left:0px;
@@ -2244,7 +2118,7 @@ p{
 
 .pfive{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:0px;
   margin-left:0px;
@@ -2252,7 +2126,7 @@ p{
 
 .psix{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:0px;
   margin-left:0px;
@@ -2260,7 +2134,7 @@ p{
 
 .pseven{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:0px;
   margin-left:0px;
@@ -2268,7 +2142,7 @@ p{
 
 .peight{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-10px;
   margin-left:0px;
@@ -2276,7 +2150,7 @@ p{
 
 .pnine{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-140px;
   margin-left:10px;
@@ -2284,7 +2158,7 @@ p{
 
 .pten{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-30px;
   margin-left:30px;
@@ -2292,7 +2166,7 @@ p{
 
 .peleven{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-20px;
   margin-left:50px;
@@ -2300,7 +2174,7 @@ p{
 
 .ptwelve{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-10px;
   margin-left:60px;
@@ -2308,7 +2182,7 @@ p{
 
 .pthirteen{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:0px;
   margin-left:60px;
@@ -2316,7 +2190,7 @@ p{
 
 .pfourteen{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:0px;
   margin-left:60px;
@@ -2324,7 +2198,7 @@ p{
 
 .pfifteen{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:0px;
   margin-left:60px;
@@ -2332,7 +2206,7 @@ p{
 
 .psixteen{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-5px;
   margin-left:55px;
@@ -2340,7 +2214,7 @@ p{
 
 .pseventeen{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-20px;
   margin-left:35px;
@@ -2348,7 +2222,7 @@ p{
 
 .peighteen{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-20px;
   margin-left:15px;
@@ -2368,13 +2242,13 @@ p{
 
 .qone{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
 }
 
 .qtwo{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:0px;
   margin-left:-10px;
@@ -2382,7 +2256,7 @@ p{
 
 .qthree{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:0px;
   margin-left:-10px;
@@ -2390,7 +2264,7 @@ p{
 
 .qfour{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:0px;
   margin-left:-10px;
@@ -2398,7 +2272,7 @@ p{
 
 .qfive{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-10px;
   margin-left:-10px;
@@ -2406,7 +2280,7 @@ p{
 
 .qsix{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-5px;
   margin-left:0px;
@@ -2414,7 +2288,7 @@ p{
 
 .qseven{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-105px;
   margin-left:20px;
@@ -2422,7 +2296,7 @@ p{
 
 .qeight{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:65px;
   margin-left:20px;
@@ -2430,7 +2304,7 @@ p{
 
 .qnine{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-20px;
   margin-left:40px;
@@ -2438,7 +2312,7 @@ p{
 
 .qten{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-95px;
   margin-left:40px;
@@ -2446,7 +2320,7 @@ p{
 
 .qeleven{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-30px;
   margin-left:50px;
@@ -2454,7 +2328,7 @@ p{
 
 .qtwelve{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:0px;
   margin-left:50px;
@@ -2462,7 +2336,7 @@ p{
 
 .qthirteen{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:0px;
   margin-left:50px;
@@ -2470,7 +2344,7 @@ p{
 
 .qfourteen{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:0px;
   margin-left:50px;
@@ -2478,7 +2352,7 @@ p{
 
 .qfifteen{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:0px;
   margin-left:50px;
@@ -2486,7 +2360,7 @@ p{
 
 .qsixteen{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:0px;
   margin-left:50px;
@@ -2494,7 +2368,7 @@ p{
 
 .qseventeen{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:0px;
   margin-left:50px;
@@ -2502,7 +2376,7 @@ p{
 
 .qeighteen{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-15px;
   margin-left:50px;
@@ -2510,7 +2384,7 @@ p{
 
 .qnineteen{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-10px;
   margin-left:55px;
@@ -2518,7 +2392,7 @@ p{
 
 .qtwenty{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-20px;
   margin-left:65px;
@@ -2531,24 +2405,20 @@ p{
   height: 220px;
 }*/
 
-.r1{
-  margin-top:-105px;
-  margin-left:390px;
+.r{
+  margin-top:-155px;
+  margin-left:950px;
 }
 
-.r4{
-  margin-top:-20px;
-  margin-left:375px;
-}
 .rone{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
 }
 
 .rtwo{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:0px;
   margin-left:0px;
@@ -2556,7 +2426,7 @@ p{
 
 .rthree{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:0px;
   margin-left:0px;
@@ -2564,7 +2434,7 @@ p{
 
 .rfour{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:0px;
   margin-left:0px;
@@ -2572,7 +2442,7 @@ p{
 
 .rfive{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:0px;
   margin-left:0px;
@@ -2580,7 +2450,7 @@ p{
 
 .rsix{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-15px;
   margin-left:0px;
@@ -2588,7 +2458,7 @@ p{
 
 .rseven{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-95px;
   margin-left:10px;
@@ -2596,7 +2466,7 @@ p{
 
 .reight{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-25px;
   margin-left:25px;
@@ -2604,7 +2474,7 @@ p{
 
 .rnine{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-25px;
   margin-left:35px;
@@ -2617,20 +2487,20 @@ p{
   height: 220px;
 }*/
 
-.s6{
-  margin-top:0px;
-  margin-left:0px;
+.s{
+  margin-top:-20px;
+  margin-left:1060px;
 }
 
 .sone{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
 }
 
 .stwo{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-10px;
   margin-left:-15px;
@@ -2638,7 +2508,7 @@ p{
 
 .sthree{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:0px;
   margin-left:-15px;
@@ -2646,7 +2516,7 @@ p{
 
 .sfour{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-10px;
   margin-left:0px;
@@ -2654,7 +2524,7 @@ p{
 
 .sfive{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-60px;
   margin-left:20px;
@@ -2662,7 +2532,7 @@ p{
 
 .ssix{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-20px;
   margin-left:30px;
@@ -2670,7 +2540,7 @@ p{
 
 .sseven{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-10px;
   margin-left:40px;
@@ -2678,7 +2548,7 @@ p{
 
 .seight{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:10px;
   margin-left:20px;
@@ -2686,7 +2556,7 @@ p{
 
 .snine{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-20px;
   margin-left:30px;
@@ -2694,7 +2564,7 @@ p{
 
 .sten{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-10px;
   margin-left:40px;
@@ -2702,7 +2572,7 @@ p{
 
 .seleven{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:0px;
   margin-left:40px;
@@ -2710,7 +2580,7 @@ p{
 
 .stwelve{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-5px;
   margin-left:35px;
@@ -2718,7 +2588,7 @@ p{
 
 .sthirteen{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-20px;
   margin-left:15px;
@@ -2726,7 +2596,7 @@ p{
 
 .sfourteen{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-20px;
   margin-left:-5px;
@@ -2734,7 +2604,7 @@ p{
 
 .sfifteen{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-30px;
   margin-left:-15px;
@@ -2747,25 +2617,20 @@ p{
   height: 220px;
 }*/
 
-.t2{
-  margin-top:-20px;
-  margin-left:365px;
-}
-
-.t5{
-  margin-top:65px;
-  margin-left:375px;
+.t{
+  margin-top:-10px;
+  margin-left:1200px;
 }
 
 .tone{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
 }
 
 .ttwo{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-40px;
   margin-left:0px;
@@ -2773,7 +2638,7 @@ p{
 
 .tthree{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-40px;
   margin-left:0px;
@@ -2781,7 +2646,7 @@ p{
 
 .tfour{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-40px;
   margin-left:0px;
@@ -2789,7 +2654,7 @@ p{
 
 .tfive{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-40px;
   margin-left:0px;
@@ -2797,7 +2662,7 @@ p{
 
 .tsix{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-40px;
   margin-left:0px;
@@ -2805,7 +2670,7 @@ p{
 
 .tseven{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-40px;
   margin-left:0px;
@@ -2813,7 +2678,7 @@ p{
 
 .teight{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-30px;
   margin-left:0px;
@@ -2821,7 +2686,7 @@ p{
 
 .tnine{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:25px;
   margin-left:-20px;
@@ -2829,7 +2694,7 @@ p{
 
 .tten{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-20px;
   margin-left:20px;
@@ -2837,7 +2702,7 @@ p{
 
 .televen{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:65px;
   margin-left:20px;
@@ -2845,7 +2710,7 @@ p{
 
 .ttwelve{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-30px;
   margin-left:30px;
@@ -2858,25 +2723,20 @@ p{
   height: 220px;
 }*/
 
-.u4{
-  margin-top:-40px;
-  margin-left:270px;
-}
-
-.u5{
-  margin-top:-105px;
-  margin-left:250px;
+.u{
+  margin-top:150px;
+  margin-left:100px;
 }
 
 .uone{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
 }
 
 .utwo{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:0px;
   margin-left:0px;
@@ -2884,7 +2744,7 @@ p{
 
 .uthree{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:0px;
   margin-left:0px;
@@ -2892,7 +2752,7 @@ p{
 
 .ufour{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:0px;
   margin-left:0px;
@@ -2900,7 +2760,7 @@ p{
 
 .ufive{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-10px;
   margin-left:5px;
@@ -2908,7 +2768,7 @@ p{
 
 .usix{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-5px;
   margin-left:5px;
@@ -2916,7 +2776,7 @@ p{
 
 .useven{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-20px;
   margin-left:20px;
@@ -2924,7 +2784,7 @@ p{
 
 .ueight{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-20px;
   margin-left:40px;
@@ -2932,7 +2792,7 @@ p{
 
 .unine{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-30px;
   margin-left:55px;
@@ -2940,7 +2800,7 @@ p{
 
 .uten{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-40px;
   margin-left:60px;
@@ -2948,7 +2808,7 @@ p{
 
 .ueleven{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:10px;
   margin-left:70px;
@@ -2956,7 +2816,7 @@ p{
 
 .utwelve{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-40px;
   margin-left:70px;
@@ -2964,7 +2824,7 @@ p{
 
 .uthirteen{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-40px;
   margin-left:70px;
@@ -2972,7 +2832,7 @@ p{
 
 .ufourteen{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-40px;
   margin-left:70px;
@@ -2980,7 +2840,7 @@ p{
 
 .ufifteen{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-40px;
   margin-left:70px;
@@ -2988,7 +2848,7 @@ p{
 
 .usixteen{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-25px;
   margin-left:70px;
@@ -3008,13 +2868,13 @@ p{
 
 .vone{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
 }
 
 .vtwo{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-20px;
   margin-left:-5px;
@@ -3022,7 +2882,7 @@ p{
 
 .vthree{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-30px;
   margin-left:-15px;
@@ -3030,7 +2890,7 @@ p{
 
 .vfour{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-20px;
   margin-left:10px;
@@ -3038,7 +2898,7 @@ p{
 
 .vfive{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-30px;
   margin-left:-20px;
@@ -3046,7 +2906,7 @@ p{
 
 .vsix{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-20px;
   margin-left:15px;
@@ -3054,7 +2914,7 @@ p{
 
 .vseven{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-30px;
   margin-left:-25px;
@@ -3062,7 +2922,7 @@ p{
 
 .veight{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-20px;
   margin-left:20px;
@@ -3070,7 +2930,7 @@ p{
 
 .vnine{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-30px;
   margin-left:-30px;
@@ -3078,7 +2938,7 @@ p{
 
 .vten{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-20px;
   margin-left:25px;
@@ -3086,7 +2946,7 @@ p{
 
 .veleven{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-30px;
   margin-left:-35px;
@@ -3094,7 +2954,7 @@ p{
 
 .vtwelve{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-20px;
   margin-left:30px;
@@ -3102,7 +2962,7 @@ p{
 
 .vthirteen{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-30px;
   margin-left:-40px;
@@ -3110,7 +2970,7 @@ p{
 
 .vfourteen{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-20px;
   margin-left:35px;
@@ -3118,7 +2978,7 @@ p{
 
 .vfifteen{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-30px;
   margin-left:-45px;
@@ -3126,7 +2986,7 @@ p{
 
 .vsixteen{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-20px;
   margin-left:40px;
@@ -3134,7 +2994,7 @@ p{
 
 .vseventeen{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-35px;
   margin-left:-45px;
@@ -3142,7 +3002,7 @@ p{
 
 .veighteen{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-20px;
   margin-left:40px;
@@ -3162,13 +3022,13 @@ p{
 
 .wone{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
 }
 
 .wtwo{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-20px;
   margin-left:-5px;
@@ -3176,7 +3036,7 @@ p{
 
 .wthree{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-30px;
   margin-left:-10px;
@@ -3184,7 +3044,7 @@ p{
 
 .wfour{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-40px;
   margin-left:-15px;
@@ -3192,7 +3052,7 @@ p{
 
 .wfive{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-40px;
   margin-left:-20px;
@@ -3200,7 +3060,7 @@ p{
 
 .wsix{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-40px;
   margin-left:-25px;
@@ -3208,7 +3068,7 @@ p{
 
 .wseven{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-35px;
   margin-left:-30px;
@@ -3216,7 +3076,7 @@ p{
 
 .weight{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-20px;
   margin-left:35px;
@@ -3224,7 +3084,7 @@ p{
 
 .wnine{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-20px;
   margin-left:40px;
@@ -3232,7 +3092,7 @@ p{
 
 .wten{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:0px;
   margin-left:25px;
@@ -3240,7 +3100,7 @@ p{
 
 .weleven{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-20px;
   margin-left:50px;
@@ -3248,7 +3108,7 @@ p{
 
 .wtwelve{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:0px;
   margin-left:50px;
@@ -3256,7 +3116,7 @@ p{
 
 .wthirteen{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-20px;
   margin-left:25px;
@@ -3264,7 +3124,7 @@ p{
 
 .wfourteen{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:0px;
   margin-left:50px;
@@ -3272,7 +3132,7 @@ p{
 
 .wfifteen{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-20px;
   margin-left:25px;
@@ -3280,7 +3140,7 @@ p{
 
 .wsixteen{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:0px;
   margin-left:55px;
@@ -3288,7 +3148,7 @@ p{
 
 .wseventeen{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-20px;
   margin-left:20px;
@@ -3296,7 +3156,7 @@ p{
 
 .weighteen{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-15px;
   margin-left:75px;
@@ -3304,7 +3164,7 @@ p{
 
 .wnineteen{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-20px;
   margin-left:80px;
@@ -3313,7 +3173,7 @@ p{
 
 .wtwenty{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-30px;
   margin-left:85px;
@@ -3321,7 +3181,7 @@ p{
 
 .wtwentyone{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-40px;
   margin-left:90px;
@@ -3329,7 +3189,7 @@ p{
 
 .wtwentytwo{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-40px;
   margin-left:95px;
@@ -3337,7 +3197,7 @@ p{
 
 .wtwentythree{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-40px;
   margin-left:100px;
@@ -3345,7 +3205,7 @@ p{
 
 .wtwentyfour{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-35px;
   margin-left:105px;
@@ -3365,13 +3225,13 @@ p{
 
 .xone{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
 }
 
 .xtwo{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-20px;
   margin-left:100px;
@@ -3379,7 +3239,7 @@ p{
 
 .xthree{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-30px;
   margin-left:90px;
@@ -3387,7 +3247,7 @@ p{
 
 .xfour{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-20px;
   margin-left:10px;
@@ -3395,7 +3255,7 @@ p{
 
 .xfive{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-30px;
   margin-left:80px;
@@ -3403,7 +3263,7 @@ p{
 
 .xsix{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-20px;
   margin-left:20px;
@@ -3411,7 +3271,7 @@ p{
 
 .xseven{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-30px;
   margin-left:35px;
@@ -3419,7 +3279,7 @@ p{
 
 .xeight{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-20px;
   margin-left:65px;
@@ -3427,7 +3287,7 @@ p{
 
 .xnine{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-35px;
   margin-left:50px;
@@ -3435,7 +3295,7 @@ p{
 
 .xten{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-35px;
   margin-left:35px;
@@ -3443,7 +3303,7 @@ p{
 
 .xeleven{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-20px;
   margin-left:65px;
@@ -3451,7 +3311,7 @@ p{
 
 .xtwelve{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-30px;
   margin-left:25px;
@@ -3459,7 +3319,7 @@ p{
 
 .xthirteen{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-20px;
   margin-left:75px;
@@ -3467,7 +3327,7 @@ p{
 
 .xfourteen{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-30px;
   margin-left:15px;
@@ -3475,7 +3335,7 @@ p{
 
 .xfifteen{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-20px;
   margin-left:85px;
@@ -3483,7 +3343,7 @@ p{
 
 .xsixteen{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-25px;
   margin-left:5px;
@@ -3491,7 +3351,7 @@ p{
 
 .xseventeen{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-20px;
   margin-left:95px;
@@ -3504,25 +3364,20 @@ p{
   height: 220px;
 }*/
 
-.y1{
-  margin-top:-185px;
-  margin-left:40px;
-}
-
-.y3{
-  margin-top:-100px;
-  margin-left:265px;
+.y{
+  margin-top:-85px;
+  margin-left:740px;
 }
 
 .yone{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
 }
 
 .ytwo{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-20px;
   margin-left:80px;
@@ -3530,7 +3385,7 @@ p{
 
 .ythree{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-3px;
   margin-left:5px;
@@ -3538,7 +3393,7 @@ p{
 
 .yfour{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-20px;
   margin-left:75px;
@@ -3546,7 +3401,7 @@ p{
 
 .yfive{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-3px;
   margin-left:10px;
@@ -3554,7 +3409,7 @@ p{
 
 .ysix{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-20px;
   margin-left:70px;
@@ -3562,7 +3417,7 @@ p{
 
 .yseven{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-3px;
   margin-left:15px;
@@ -3570,7 +3425,7 @@ p{
 
 .yeight{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-20px;
   margin-left:65px;
@@ -3578,7 +3433,7 @@ p{
 
 .ynine{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-10px;
   margin-left:35px;
@@ -3586,7 +3441,7 @@ p{
 
 .yten{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-20px;
   margin-left:25px;
@@ -3594,7 +3449,7 @@ p{
 
 .yeleven{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-20px;
   margin-left:55px;
@@ -3602,7 +3457,7 @@ p{
 
 .ytwelve{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-2px;
   margin-left:40px;
@@ -3610,7 +3465,7 @@ p{
 
 .ythirteen{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-5px;
   margin-left:35px;
@@ -3618,7 +3473,7 @@ p{
 
 .yfourteen{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-5px;
   margin-left:25px;
@@ -3626,7 +3481,7 @@ p{
 
 .yfifteen{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-5px;
   margin-left:15px;
@@ -3634,7 +3489,7 @@ p{
 
 .ysixteen{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-20px;
   margin-left:0px;
@@ -3654,13 +3509,13 @@ p{
 
 .zone{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
 }
 
 .ztwo{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-20px;
   margin-left:20px;
@@ -3668,7 +3523,7 @@ p{
 
 .zthree{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-20px;
   margin-left:40px;
@@ -3676,7 +3531,7 @@ p{
 
 .zfour{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-20px;
   margin-left:60px;
@@ -3684,7 +3539,7 @@ p{
 
 .zfive{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-20px;
   margin-left:70px;
@@ -3692,7 +3547,7 @@ p{
 
 .zseven{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-10px;
   margin-left:60px;
@@ -3700,7 +3555,7 @@ p{
 
 .zeight{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:0px;
   margin-left:50px;
@@ -3708,7 +3563,7 @@ p{
 
 .znine{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-10px;
   margin-left:40px;
@@ -3716,7 +3571,7 @@ p{
 
 .zten{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-10px;
   margin-left:30px;
@@ -3724,7 +3579,7 @@ p{
 
 .zeleven{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-10px;
   margin-left:20px;
@@ -3732,7 +3587,7 @@ p{
 
 .ztwelve{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-10px;
   margin-left:10px;
@@ -3740,7 +3595,7 @@ p{
 
 .zthirteen{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-10px;
   margin-left:0px;
@@ -3748,7 +3603,7 @@ p{
 
 .zfourteen{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-10px;
   margin-left:0px;
@@ -3756,7 +3611,7 @@ p{
 
 .zfifteen{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-20px;
   margin-left:20px;
@@ -3764,7 +3619,7 @@ p{
 
 .zsixteen{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-20px;
   margin-left:40px;
@@ -3772,7 +3627,7 @@ p{
 
 .zseventeen{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-20px;
   margin-left:60px;
@@ -3780,7 +3635,7 @@ p{
 
 .zeighteen{
   background-color:black;
-  width:10px;
+  width:20px;
   height:20px;
   margin-top:-20px;
   margin-left:70px;
@@ -3791,4 +3646,3 @@ p{
   margin-top:500px;
   margin-left:0px;
 }
-
