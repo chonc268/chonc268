@@ -7,7 +7,7 @@ $(document).on("mousemove", function (ev){
 
 // go through all of images and work out the angle
 
-  $("div").each(function () {
+  $("div.box").each(function () {
     var imgX = $(this).position().left + 70
     var imgY = $(this).position().top + 70
 

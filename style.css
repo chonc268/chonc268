@@ -7,8 +7,9 @@ h1{
 }
 
 .link {
-  margin-top:275px;
-  margin-left:580px;
+  position: fixed;
+  margin-top:193px;
+  margin-left:584px;
 }
 
 a {

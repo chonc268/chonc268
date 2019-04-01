@@ -1,3 +1,21 @@
+.link {
+  position: fixed;
+  margin-top:982px;
+  margin-left:582px;
+}
+
+a {
+  text-decoration: none;
+  font-size:75px;
+  font-family: Arial,sans-serif;
+  color: black;
+  opacity:0.5;
+}
+
+a:hover {
+  opacity:1;
+}
+
 html, body {
   overflow: hidden
 }
