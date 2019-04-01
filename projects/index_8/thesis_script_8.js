@@ -1,5 +1,4 @@
-const images = [
-  "file:///Users/cchong1232/thesis_1/img/square/pixel1.png", "file:///Users/cchong1232/thesis_1/img/square/pixel2.png", "file:///Users/cchong1232/thesis_1/img/square/pixel3.png", "file:///Users/cchong1232/thesis_1/img/square/pixel4.png", "file:///Users/cchong1232/thesis_1/img/square/pixel5.png", "file:///Users/cchong1232/thesis_1/img/square/pixel6.png"]
+const images = ["https://chonc268.github.io/img/square/pixel1.png", "https://chonc268.github.io/img/square/pixel2.png", "https://chonc268.github.io/img/square/pixel3.png", "https://chonc268.github.io/img/square/pixel4.png", "https://chonc268.github.io/img/square/pixel5.png", "https://chonc268.github.io/img/square/pixel6.png"]
 
 let i = 0
 
