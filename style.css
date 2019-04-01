@@ -1,41 +1,30 @@
 
 body {
-  font-family: Futura,Trebuchet MS,Arial,sans-serif;
-  font-size: 50px;
-  line-height:  1.25;
+  font-family: Arial,sans-serif;
 
-  background-color: #ffffff;
-  color: #000000;
-}
-
-header, section {
-  position: sticky;
-  position: -webkit-sticky;
-  top: 0;
+  background-color: #000000;
+  color: #ffffff;
 }
 
 header {
-  margin-top:600px;
-  margin-left:0px;
-
+  margin-top:-40px;
+  margin-left:625px;
 }
 
 a {
-  margin-top:70px;
-  margin-left:580px;
   text-decoration: none;
-  font-size:100px;
-  font-family: Futura,Trebuchet MS,Arial,sans-serif;
-  color: black;
-  opacity:0.5;
-}
-
-a:hover {
+  font-size:500px;
+  font-family: Arial,sans-serif;
+  color: white;
   opacity:1;
 }
 
+a:hover {
+  opacity:0.5;
+}
+
 p {
-  font-family: Futura,Trebuchet MS,Arial,sans-serif;
+  font-family: Arial,sans-serif;
   color: white;
   font-size: 30px;
   margin-top:20px;
