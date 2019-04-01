@@ -1,0 +1,21 @@
+.box {
+  cursor: pointer;
+  margin-top: 25px;
+  margin-left:35px;
+}
+
+.square {
+  height: 50px;
+  width: 50px;
+  margin:15px;
+  float:left;
+}
+
+div.box span {
+  transition: color 2.5s;
+}
+
+div.box span:hover {
+  color: green;
+}
+

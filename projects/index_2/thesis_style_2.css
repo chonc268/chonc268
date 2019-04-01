@@ -1,0 +1,796 @@
+body {
+  width: 1410px;
+  height: 10000px;
+}
+
+.box-1-1 {
+  position: relative;
+  margin-left:500px;
+  margin-top:163px;
+  width: 440px;
+  height: 440px;
+  background-color: #000000;
+  animation-duration: 5s;
+  animation-fill-mode:both;
+  animation-name: example-1-1;
+  transform: scale(0.2);
+}
+@keyframes example-1-1 {
+  0% { transform: scale(0.2); }
+  5% { transform: scale(1); }
+  10% { transform: scale(0.2); }
+  15% { transform: scale(1); }
+  20% { transform: scale(0.2); }
+  25% { transform: scale(1); }
+  30% { transform: scale(0.2); }
+  35% { transform: scale(1); }
+  40% { transform: scale(0.2); }
+  45% { transform: scale(1); }
+  50% { transform: scale(0.2); }
+  55% { transform: scale(1); }
+  60% { transform: scale(0.2); }
+  65% { transform: scale(1); }
+  70% { transform: scale(0.2); }
+  75% { transform: scale(1); }
+  80% { transform: scale(0.2); }
+  85% { transform: scale(1); }
+  90% { transform: scale(0.2); }
+  95% { transform: scale(1); }
+  100% {transform: scale(0.2); }
+}
+
+.box-1-2 {
+  position: relative;
+  margin-left:510px;
+  margin-top:-430px;
+  width: 420px;
+  height: 420px;
+  background-color: #ff0055;
+  animation-duration: 10s;
+  animation-fill-mode:both;
+  animation-name: example-1-2;
+  transform: scale(0.2);
+}
+@keyframes example-1-2 {
+  0% { transform: scale(0.2); }
+  5% { transform: scale(1); }
+  10% { transform: scale(0.2); }
+  15% { transform: scale(1); }
+  20% { transform: scale(0.2); }
+  25% { transform: scale(1); }
+  30% { transform: scale(0.2); }
+  35% { transform: scale(1); }
+  40% { transform: scale(0.2); }
+  45% { transform: scale(1); }
+  50% { transform: scale(0.2); }
+  55% { transform: scale(1); }
+  60% { transform: scale(0.2); }
+  65% { transform: scale(1); }
+  70% { transform: scale(0.2); }
+  75% { transform: scale(1); }
+  80% { transform: scale(0.2); }
+  85% { transform: scale(1); }
+  90% { transform: scale(0.2); }
+  95% { transform: scale(1); }
+  100% {transform: scale(0.2); }
+}
+
+.box-1-3 {
+  position: relative;
+  margin-left:520px;
+  margin-top:-410px;
+  width: 400px;
+  height: 400px;
+  background-color: #ff00aa;
+  animation-duration: 15s;
+  animation-fill-mode:both;
+  animation-name: example-1-3;
+  transform: scale(0.2);
+}
+@keyframes example-1-3 {
+  0% { transform: scale(0.2); }
+  5% { transform: scale(1); }
+  10% { transform: scale(0.2); }
+  15% { transform: scale(1); }
+  20% { transform: scale(0.2); }
+  25% { transform: scale(1); }
+  30% { transform: scale(0.2); }
+  35% { transform: scale(1); }
+  40% { transform: scale(0.2); }
+  45% { transform: scale(1); }
+  50% { transform: scale(0.2); }
+  55% { transform: scale(1); }
+  60% { transform: scale(0.2); }
+  65% { transform: scale(1); }
+  70% { transform: scale(0.2); }
+  75% { transform: scale(1); }
+  80% { transform: scale(0.2); }
+  85% { transform: scale(1); }
+  90% { transform: scale(0.2); }
+  95% { transform: scale(1); }
+  100% {transform: scale(0.2); }
+}
+
+.box-1-4 {
+  position: relative;
+  margin-left:530px;
+  margin-top:-390px;
+  width: 380px;
+  height: 380px;
+  background-color: #ff00ff;
+  animation-duration: 20s;
+  animation-fill-mode:both;
+  animation-name: example-1-4;
+  transform: scale(0.2);
+}
+@keyframes example-1-4 {
+  0% { transform: scale(0.2); }
+  5% { transform: scale(1); }
+  10% { transform: scale(0.2); }
+  15% { transform: scale(1); }
+  20% { transform: scale(0.2); }
+  25% { transform: scale(1); }
+  30% { transform: scale(0.2); }
+  35% { transform: scale(1); }
+  40% { transform: scale(0.2); }
+  45% { transform: scale(1); }
+  50% { transform: scale(0.2); }
+  55% { transform: scale(1); }
+  60% { transform: scale(0.2); }
+  65% { transform: scale(1); }
+  70% { transform: scale(0.2); }
+  75% { transform: scale(1); }
+  80% { transform: scale(0.2); }
+  85% { transform: scale(1); }
+  90% { transform: scale(0.2); }
+  95% { transform: scale(1); }
+  100% {transform: scale(0.2); }
+}
+
+.box-1-5 {
+  position: relative;
+  margin-left:540px;
+  margin-top:-370px;
+  width: 360px;
+  height: 360px;
+  background-color: #aa00ff;
+  animation-duration: 25s;
+  animation-fill-mode:both;
+  animation-name: example-1-5;
+  transform: scale(0.2);
+}
+@keyframes example-1-5 {
+  0% { transform: scale(0.2); }
+  5% { transform: scale(1); }
+  10% { transform: scale(0.2); }
+  15% { transform: scale(1); }
+  20% { transform: scale(0.2); }
+  25% { transform: scale(1); }
+  30% { transform: scale(0.2); }
+  35% { transform: scale(1); }
+  40% { transform: scale(0.2); }
+  45% { transform: scale(1); }
+  50% { transform: scale(0.2); }
+  55% { transform: scale(1); }
+  60% { transform: scale(0.2); }
+  65% { transform: scale(1); }
+  70% { transform: scale(0.2); }
+  75% { transform: scale(1); }
+  80% { transform: scale(0.2); }
+  85% { transform: scale(1); }
+  90% { transform: scale(0.2); }
+  95% { transform: scale(1); }
+  100% {transform: scale(0.2); }
+}
+
+.box-1-6 {
+  position: relative;
+  margin-left:550px;
+  margin-top:-350px;
+  width: 340px;
+  height: 340px;
+  background-color: #5500ff;
+  animation-duration: 30s;
+  animation-fill-mode:both;
+  animation-name: example-1-6;
+  transform: scale(0.2);
+}
+@keyframes example-1-6 {
+  0% { transform: scale(0.2); }
+  5% { transform: scale(1); }
+  10% { transform: scale(0.2); }
+  15% { transform: scale(1); }
+  20% { transform: scale(0.2); }
+  25% { transform: scale(1); }
+  30% { transform: scale(0.2); }
+  35% { transform: scale(1); }
+  40% { transform: scale(0.2); }
+  45% { transform: scale(1); }
+  50% { transform: scale(0.2); }
+  55% { transform: scale(1); }
+  60% { transform: scale(0.2); }
+  65% { transform: scale(1); }
+  70% { transform: scale(0.2); }
+  75% { transform: scale(1); }
+  80% { transform: scale(0.2); }
+  85% { transform: scale(1); }
+  90% { transform: scale(0.2); }
+  95% { transform: scale(1); }
+  100% {transform: scale(0.2); }
+}
+
+.box-1-7 {
+  position: relative;
+  margin-left:560px;
+  margin-top:-330px;
+  width: 320px;
+  height: 320px;
+  background-color: #0000ff;
+  animation-duration: 35s;
+  animation-fill-mode:both;
+  animation-name: example-1-7;
+  transform: scale(0.2);
+}
+@keyframes example-1-7 {
+  0% { transform: scale(0.2); }
+  5% { transform: scale(1); }
+  10% { transform: scale(0.2); }
+  15% { transform: scale(1); }
+  20% { transform: scale(0.2); }
+  25% { transform: scale(1); }
+  30% { transform: scale(0.2); }
+  35% { transform: scale(1); }
+  40% { transform: scale(0.2); }
+  45% { transform: scale(1); }
+  50% { transform: scale(0.2); }
+  55% { transform: scale(1); }
+  60% { transform: scale(0.2); }
+  65% { transform: scale(1); }
+  70% { transform: scale(0.2); }
+  75% { transform: scale(1); }
+  80% { transform: scale(0.2); }
+  85% { transform: scale(1); }
+  90% { transform: scale(0.2); }
+  95% { transform: scale(1); }
+  100% {transform: scale(0.2); }
+}
+
+.box-1-8 {
+  position: relative;
+  margin-left:570px;
+  margin-top:-310px;
+  width: 300px;
+  height: 300px;
+  background-color: #0055ff;
+  animation-duration: 40s;
+  animation-fill-mode:both;
+  animation-name: example-1-8;
+  transform: scale(0.2);
+}
+@keyframes example-1-8 {
+  0% { transform: scale(0.2); }
+  5% { transform: scale(1); }
+  10% { transform: scale(0.2); }
+  15% { transform: scale(1); }
+  20% { transform: scale(0.2); }
+  25% { transform: scale(1); }
+  30% { transform: scale(0.2); }
+  35% { transform: scale(1); }
+  40% { transform: scale(0.2); }
+  45% { transform: scale(1); }
+  50% { transform: scale(0.2); }
+  55% { transform: scale(1); }
+  60% { transform: scale(0.2); }
+  65% { transform: scale(1); }
+  70% { transform: scale(0.2); }
+  75% { transform: scale(1); }
+  80% { transform: scale(0.2); }
+  85% { transform: scale(1); }
+  90% { transform: scale(0.2); }
+  95% { transform: scale(1); }
+  100% {transform: scale(0.2); }
+}
+
+.box-1-9 {
+  position: relative;
+  margin-left:580px;
+  margin-top:-290px;
+  width: 280px;
+  height: 280px;
+  background-color: #00aaff;
+  animation-duration: 45s;
+  animation-fill-mode:both;
+  animation-name: example-1-9;
+  transform: scale(0.2);
+}
+@keyframes example-1-9 {
+  0% { transform: scale(0.2); }
+  5% { transform: scale(1); }
+  10% { transform: scale(0.2); }
+  15% { transform: scale(1); }
+  20% { transform: scale(0.2); }
+  25% { transform: scale(1); }
+  30% { transform: scale(0.2); }
+  35% { transform: scale(1); }
+  40% { transform: scale(0.2); }
+  45% { transform: scale(1); }
+  50% { transform: scale(0.2); }
+  55% { transform: scale(1); }
+  60% { transform: scale(0.2); }
+  65% { transform: scale(1); }
+  70% { transform: scale(0.2); }
+  75% { transform: scale(1); }
+  80% { transform: scale(0.2); }
+  85% { transform: scale(1); }
+  90% { transform: scale(0.2); }
+  95% { transform: scale(1); }
+  100% {transform: scale(0.2); }
+}
+
+.box-1-10 {
+  position: relative;
+  margin-left:590px;
+  margin-top:-270px;
+  width: 260px;
+  height: 260px;
+  background-color: #00ffff;
+  animation-duration: 50s;
+  animation-fill-mode:both;
+  animation-name: example-1-10;
+  transform: scale(0.2);
+}
+@keyframes example-1-10 {
+  0% { transform: scale(0.2); }
+  5% { transform: scale(1); }
+  10% { transform: scale(0.2); }
+  15% { transform: scale(1); }
+  20% { transform: scale(0.2); }
+  25% { transform: scale(1); }
+  30% { transform: scale(0.2); }
+  35% { transform: scale(1); }
+  40% { transform: scale(0.2); }
+  45% { transform: scale(1); }
+  50% { transform: scale(0.2); }
+  55% { transform: scale(1); }
+  60% { transform: scale(0.2); }
+  65% { transform: scale(1); }
+  70% { transform: scale(0.2); }
+  75% { transform: scale(1); }
+  80% { transform: scale(0.2); }
+  85% { transform: scale(1); }
+  90% { transform: scale(0.2); }
+  95% { transform: scale(1); }
+  100% {transform: scale(0.2); }
+}
+
+.box-1-11 {
+  position: relative;
+  margin-left:600px;
+  margin-top:-250px;
+  width: 240px;
+  height: 240px;
+  background-color: #00ffaa;
+  animation-duration: 55s;
+  animation-fill-mode:both;
+  animation-name: example-1-11;
+  transform: scale(0.2);
+}
+@keyframes example-1-11 {
+  0% { transform: scale(0.2); }
+  5% { transform: scale(1); }
+  10% { transform: scale(0.2); }
+  15% { transform: scale(1); }
+  20% { transform: scale(0.2); }
+  25% { transform: scale(1); }
+  30% { transform: scale(0.2); }
+  35% { transform: scale(1); }
+  40% { transform: scale(0.2); }
+  45% { transform: scale(1); }
+  50% { transform: scale(0.2); }
+  55% { transform: scale(1); }
+  60% { transform: scale(0.2); }
+  65% { transform: scale(1); }
+  70% { transform: scale(0.2); }
+  75% { transform: scale(1); }
+  80% { transform: scale(0.2); }
+  85% { transform: scale(1); }
+  90% { transform: scale(0.2); }
+  95% { transform: scale(1); }
+  100% {transform: scale(0.2); }
+}
+
+.box-1-12 {
+  position: relative;
+  margin-left:610px;
+  margin-top:-230px;
+  width: 220px;
+  height: 220px;
+  background-color: #00ff55;
+  animation-duration: 60s;
+  animation-fill-mode:both;
+  animation-name: example-1-12;
+  transform: scale(0.2);
+}
+@keyframes example-1-12 {
+  0% { transform: scale(0.2); }
+  5% { transform: scale(1); }
+  10% { transform: scale(0.2); }
+  15% { transform: scale(1); }
+  20% { transform: scale(0.2); }
+  25% { transform: scale(1); }
+  30% { transform: scale(0.2); }
+  35% { transform: scale(1); }
+  40% { transform: scale(0.2); }
+  45% { transform: scale(1); }
+  50% { transform: scale(0.2); }
+  55% { transform: scale(1); }
+  60% { transform: scale(0.2); }
+  65% { transform: scale(1); }
+  70% { transform: scale(0.2); }
+  75% { transform: scale(1); }
+  80% { transform: scale(0.2); }
+  85% { transform: scale(1); }
+  90% { transform: scale(0.2); }
+  95% { transform: scale(1); }
+  100% {transform: scale(0.2); }
+}
+
+.box-1-13 {
+  position: relative;
+  margin-left:620px;
+  margin-top:-210px;
+  width: 200px;
+  height: 200px;
+  background-color: #00ff00;
+  animation-duration: 65s;
+  animation-fill-mode:both;
+  animation-name: example-1-13;
+  transform: scale(0.2);
+}
+@keyframes example-1-13 {
+  0% { transform: scale(0.2); }
+  5% { transform: scale(1); }
+  10% { transform: scale(0.2); }
+  15% { transform: scale(1); }
+  20% { transform: scale(0.2); }
+  25% { transform: scale(1); }
+  30% { transform: scale(0.2); }
+  35% { transform: scale(1); }
+  40% { transform: scale(0.2); }
+  45% { transform: scale(1); }
+  50% { transform: scale(0.2); }
+  55% { transform: scale(1); }
+  60% { transform: scale(0.2); }
+  65% { transform: scale(1); }
+  70% { transform: scale(0.2); }
+  75% { transform: scale(1); }
+  80% { transform: scale(0.2); }
+  85% { transform: scale(1); }
+  90% { transform: scale(0.2); }
+  95% { transform: scale(1); }
+  100% {transform: scale(0.2); }
+}
+
+.box-1-14 {
+  position: relative;
+  margin-left:630px;
+  margin-top:-190px;
+  width: 180px;
+  height: 180px;
+  background-color: #55ff00;
+  animation-duration: 70s;
+  animation-fill-mode:both;
+  animation-name: example-1-14;
+  transform: scale(0.2);
+}
+@keyframes example-1-14 {
+  0% { transform: scale(0.2); }
+  5% { transform: scale(1); }
+  10% { transform: scale(0.2); }
+  15% { transform: scale(1); }
+  20% { transform: scale(0.2); }
+  25% { transform: scale(1); }
+  30% { transform: scale(0.2); }
+  35% { transform: scale(1); }
+  40% { transform: scale(0.2); }
+  45% { transform: scale(1); }
+  50% { transform: scale(0.2); }
+  55% { transform: scale(1); }
+  60% { transform: scale(0.2); }
+  65% { transform: scale(1); }
+  70% { transform: scale(0.2); }
+  75% { transform: scale(1); }
+  80% { transform: scale(0.2); }
+  85% { transform: scale(1); }
+  90% { transform: scale(0.2); }
+  95% { transform: scale(1); }
+  100% {transform: scale(0.2); }
+}
+
+.box-1-15 {
+  position: relative;
+  margin-left:640px;
+  margin-top:-170px;
+  width: 160px;
+  height: 160px;
+  background-color: #aaff00;
+  animation-duration: 75s;
+  animation-fill-mode:both;
+  animation-name: example-1-15;
+  transform: scale(0.2);
+}
+@keyframes example-1-15 {
+  0% { transform: scale(0.2); }
+  5% { transform: scale(1); }
+  10% { transform: scale(0.2); }
+  15% { transform: scale(1); }
+  20% { transform: scale(0.2); }
+  25% { transform: scale(1); }
+  30% { transform: scale(0.2); }
+  35% { transform: scale(1); }
+  40% { transform: scale(0.2); }
+  45% { transform: scale(1); }
+  50% { transform: scale(0.2); }
+  55% { transform: scale(1); }
+  60% { transform: scale(0.2); }
+  65% { transform: scale(1); }
+  70% { transform: scale(0.2); }
+  75% { transform: scale(1); }
+  80% { transform: scale(0.2); }
+  85% { transform: scale(1); }
+  90% { transform: scale(0.2); }
+  95% { transform: scale(1); }
+  100% {transform: scale(0.2); }
+}
+
+.box-1-16 {
+  position: relative;
+  margin-left:650px;
+  margin-top:-150px;
+  width: 140px;
+  height: 140px;
+  background-color: #ffff00;
+  animation-duration: 80s;
+  animation-fill-mode:both;
+  animation-name: example-1-16;
+  transform: scale(0.2);
+}
+@keyframes example-1-16 {
+  0% { transform: scale(0.2); }
+  5% { transform: scale(1); }
+  10% { transform: scale(0.2); }
+  15% { transform: scale(1); }
+  20% { transform: scale(0.2); }
+  25% { transform: scale(1); }
+  30% { transform: scale(0.2); }
+  35% { transform: scale(1); }
+  40% { transform: scale(0.2); }
+  45% { transform: scale(1); }
+  50% { transform: scale(0.2); }
+  55% { transform: scale(1); }
+  60% { transform: scale(0.2); }
+  65% { transform: scale(1); }
+  70% { transform: scale(0.2); }
+  75% { transform: scale(1); }
+  80% { transform: scale(0.2); }
+  85% { transform: scale(1); }
+  90% { transform: scale(0.2); }
+  95% { transform: scale(1); }
+  100% {transform: scale(0.2); }
+}
+
+.box-1-17 {
+  position: relative;
+  margin-left:660px;
+  margin-top:-130px;
+  width: 120px;
+  height: 120px;
+  background-color: #ffaa00;
+  animation-duration: 85s;
+  animation-fill-mode:both;
+  animation-name: example-1-17;
+  transform: scale(0.2);
+}
+@keyframes example-1-17 {
+  0% { transform: scale(0.2); }
+  5% { transform: scale(1); }
+  10% { transform: scale(0.2); }
+  15% { transform: scale(1); }
+  20% { transform: scale(0.2); }
+  25% { transform: scale(1); }
+  30% { transform: scale(0.2); }
+  35% { transform: scale(1); }
+  40% { transform: scale(0.2); }
+  45% { transform: scale(1); }
+  50% { transform: scale(0.2); }
+  55% { transform: scale(1); }
+  60% { transform: scale(0.2); }
+  65% { transform: scale(1); }
+  70% { transform: scale(0.2); }
+  75% { transform: scale(1); }
+  80% { transform: scale(0.2); }
+  85% { transform: scale(1); }
+  90% { transform: scale(0.2); }
+  95% { transform: scale(1); }
+  100% {transform: scale(0.2); }
+}
+
+.box-1-18 {
+  position: relative;
+  margin-left:670px;
+  margin-top:-110px;
+  width: 100px;
+  height: 100px;
+  background-color: #ff5500;
+  animation-duration: 90s;
+  animation-fill-mode:both;
+  animation-name: example-1-18;
+  transform: scale(0.2);
+}
+@keyframes example-1-18 {
+  0% { transform: scale(0.2); }
+  5% { transform: scale(1); }
+  10% { transform: scale(0.2); }
+  15% { transform: scale(1); }
+  20% { transform: scale(0.2); }
+  25% { transform: scale(1); }
+  30% { transform: scale(0.2); }
+  35% { transform: scale(1); }
+  40% { transform: scale(0.2); }
+  45% { transform: scale(1); }
+  50% { transform: scale(0.2); }
+  55% { transform: scale(1); }
+  60% { transform: scale(0.2); }
+  65% { transform: scale(1); }
+  70% { transform: scale(0.2); }
+  75% { transform: scale(1); }
+  80% { transform: scale(0.2); }
+  85% { transform: scale(1); }
+  90% { transform: scale(0.2); }
+  95% { transform: scale(1); }
+  100% {transform: scale(0.2); }
+}
+
+.box-1-19 {
+  position: relative;
+  margin-left:680px;
+  margin-top:-90px;
+  width: 80px;
+  height: 80px;
+  background-color: #ff0000;
+  animation-duration: 95s;
+  animation-fill-mode:both;
+  animation-name: example-1-19;
+  transform: scale(0.2);
+}
+@keyframes example-1-19 {
+  0% { transform: scale(0.2); }
+  5% { transform: scale(1); }
+  10% { transform: scale(0.2); }
+  15% { transform: scale(1); }
+  20% { transform: scale(0.2); }
+  25% { transform: scale(1); }
+  30% { transform: scale(0.2); }
+  35% { transform: scale(1); }
+  40% { transform: scale(0.2); }
+  45% { transform: scale(1); }
+  50% { transform: scale(0.2); }
+  55% { transform: scale(1); }
+  60% { transform: scale(0.2); }
+  65% { transform: scale(1); }
+  70% { transform: scale(0.2); }
+  75% { transform: scale(1); }
+  80% { transform: scale(0.2); }
+  85% { transform: scale(1); }
+  90% { transform: scale(0.2); }
+  95% { transform: scale(1); }
+  100% {transform: scale(0.2); }
+}
+
+.box-1-20 {
+  position: relative;
+  margin-left:690px;
+  margin-top:-70px;
+  width: 60px;
+  height: 60px;
+  background-color: #aa0000;
+  animation-duration: 100s;
+  animation-fill-mode:both;
+  animation-name: example-1-20;
+  transform: scale(0.2);
+}
+@keyframes example-1-20 {
+  0% { transform: scale(0.2); }
+  5% { transform: scale(1); }
+  10% { transform: scale(0.2); }
+  15% { transform: scale(1); }
+  20% { transform: scale(0.2); }
+  25% { transform: scale(1); }
+  30% { transform: scale(0.2); }
+  35% { transform: scale(1); }
+  40% { transform: scale(0.2); }
+  45% { transform: scale(1); }
+  50% { transform: scale(0.2); }
+  55% { transform: scale(1); }
+  60% { transform: scale(0.2); }
+  65% { transform: scale(1); }
+  70% { transform: scale(0.2); }
+  75% { transform: scale(1); }
+  80% { transform: scale(0.2); }
+  85% { transform: scale(1); }
+  90% { transform: scale(0.2); }
+  95% { transform: scale(1); }
+  100% {transform: scale(0.2); }
+}
+
+.box-1-21 {
+  position: relative;
+  margin-left:700px;
+  margin-top:-50px;
+  width: 40px;
+  height: 40px;
+  background-color: #550000;
+  animation-duration: 105s;
+  animation-fill-mode:both;
+  animation-name: example-1-21;
+  transform: scale(0.2);
+}
+@keyframes example-1-21 {
+  0% { transform: scale(0.2); }
+  5% { transform: scale(1); }
+  10% { transform: scale(0.2); }
+  15% { transform: scale(1); }
+  20% { transform: scale(0.2); }
+  25% { transform: scale(1); }
+  30% { transform: scale(0.2); }
+  35% { transform: scale(1); }
+  40% { transform: scale(0.2); }
+  45% { transform: scale(1); }
+  50% { transform: scale(0.2); }
+  55% { transform: scale(1); }
+  60% { transform: scale(0.2); }
+  65% { transform: scale(1); }
+  70% { transform: scale(0.2); }
+  75% { transform: scale(1); }
+  80% { transform: scale(0.2); }
+  85% { transform: scale(1); }
+  90% { transform: scale(0.2); }
+  95% { transform: scale(1); }
+  100% {transform: scale(0.2); }
+}
+
+.box-1-22 {
+  position: relative;
+  margin-left:710px;
+  margin-top:-30px;
+  width: 20px;
+  height: 20px;
+  background-color: #000000;
+  animation-duration: 110s;
+  animation-fill-mode:both;
+  animation-name: example-1-22;
+  transform: scale(0.2);
+}
+@keyframes example-1-22 {
+  0% { transform: scale(0.2); }
+  5% { transform: scale(1); }
+  10% { transform: scale(0.2); }
+  15% { transform: scale(1); }
+  20% { transform: scale(0.2); }
+  25% { transform: scale(1); }
+  30% { transform: scale(0.2); }
+  35% { transform: scale(1); }
+  40% { transform: scale(0.2); }
+  45% { transform: scale(1); }
+  50% { transform: scale(0.2); }
+  55% { transform: scale(1); }
+  60% { transform: scale(0.2); }
+  65% { transform: scale(1); }
+  70% { transform: scale(0.2); }
+  75% { transform: scale(1); }
+  80% { transform: scale(0.2); }
+  85% { transform: scale(1); }
+  90% { transform: scale(0.2); }
+  95% { transform: scale(1); }
+  100% {transform: scale(0.2); }
+}

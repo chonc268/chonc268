@@ -1,0 +1,32 @@
+body {
+  font-family: Futura,Trebuchet MS,Arial,sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  background-color: black;
+}
+
+img {
+  position: fixed;
+  width: 50%;
+  height: 50%;
+}
+
+img.square1 {
+  top: 0;
+  left: 0;
+}
+
+img.square2 {
+  top: 0;
+  right: 0;
+}
+
+img.square3 {
+  bottom: 0;
+  left: 0;
+}
+
+img.square4 {
+  bottom: 0;
+  right: 0;
+}
