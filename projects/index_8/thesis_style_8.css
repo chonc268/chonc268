@@ -2,6 +2,7 @@
   position: fixed;
   margin-top:708px;
   margin-left:583px;
+  z-index:1;
 }
 
 a {
@@ -20,6 +21,7 @@ body {
   background-color: white;
   color: white;
   overflow: hidden;
+  z-index:-1;
 }
 
 header {
