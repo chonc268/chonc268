@@ -1,88 +1,22 @@
-div.scrollmenu {
-  position: fixed;
-  overflow: auto;
-  white-space: nowrap;
-  width: 1320px;
-  height: 55px;
-  margin-top: 725px;
-  margin-left: 36px;
-}
-
-::-webkit-scrollbar {
-    display: none;
-}
-
-div.scrollmenu a {
-  font-family: Arial,sans-serif;
-  display: inline-block;
-  font-size: 50px;
-  color: black;
-  text-align: center;
-  padding: 15px;
-  text-decoration: none;
-  line-height:10px;
-}
-
-div.scrollmenu a:hover {
-  color: #777;
-}
-
-
-
-
 body {
-font-family: Work Sans;
-font-size: 60px;
-line-height: 1.25;
+  background-color: #ff4141;
 
-background-color: white;
-color: black;
+  perspective: 1500px;
+  height: 100vh;
 }
 
-section.text {
-  border: 100px solid black;
-  padding: 100px;
-  background-color: white;
-  position: relative;
-  height: 1000px;
+section {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+
+  transform-style: preserve-3d;
+  backface-visibility: hidden;
 }
 
-section.text p {
-  width: 70%;
-}
-
-section.text a {
-  color: black;
-}
-
-section.text div.rect1 {
-  position:absolute;
-  top: 100px;
-  right: 100px;
-  width: 250px;
-  height: 200px;
-  background-color: black;
-}
-
-section.text div.rect2 {
-  position:absolute;
-  top: 500px;
-  left: 30px;
-  width: 500px;
-  height: 100px;
-  background-color: black;
-}
-
-section.background {
-  position: fixed;
+div.face {
+  position: absolute;
   top: 0;
   left: 0;
-  width: 100%;
-  height: 100%;
-
-  background-image: url(https://chonc268.github.io/img/square/background_11_1.png);
   background-size: cover;
-  background-position: center;
-
-  mix-blend-mode: screen
 }
