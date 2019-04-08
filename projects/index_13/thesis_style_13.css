@@ -1,0 +1,30 @@
+body {
+  font-family: Arial;
+  line-height: 1.25;
+
+  background-color:white;
+  color: black
+
+  margin: 50px auto 100px auto;
+  width: 900px;
+}
+
+section.slideshow {
+  width: 900px;
+  height: 600px;
+  cursor: pointer;
+  position: relative;
+}
+
+section.slideshow img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 900px;
+  height: 600px;
+  z-index: 0;
+}
+
+section.slideshow img:first-child {
+  z-index: 1;
+}

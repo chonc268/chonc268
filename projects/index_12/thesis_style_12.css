@@ -1,8 +1,9 @@
 body {
-  background-color: #ff4141;
+  background-color: white;
 
   perspective: 1500px;
   height: 100vh;
+  overflow: hidden;
 }
 
 section {
@@ -12,6 +13,8 @@ section {
 
   transform-style: preserve-3d;
   backface-visibility: hidden;
+
+  transform: rotateX(20deg) rotateY(-230deg);
 }
 
 div.face {
@@ -19,4 +22,77 @@ div.face {
   top: 0;
   left: 0;
   background-size: cover;
+}
+
+div.face1 {
+  width: 250px;
+  height:250px;
+  background-image: url(https://chonc268.github.io/img/square/cube1.png);
+  transform: translateX(-50%) translateY(-50%) translateZ(125px);
+}
+
+div.face2 {
+  width: 250px;
+  height:250px;
+  background-image: url(https://chonc268.github.io/img/square/cube2.png);
+  transform: translateX(-50%) translateY(-50%)  rotateY(90deg) translateZ(125px);
+}
+
+
+div.face3 {
+  width: 250px;
+  height:250px;
+  background-image: url(https://chonc268.github.io/img/square/cube3.png);
+  transform: translateX(-50%) translateY(0px) rotateX(-90deg) translateZ(0px);
+}
+
+div.face4 {
+  width: 250px;
+  height:250px;
+  background-image: url(https://chonc268.github.io/img/square/cube4.png);
+  transform: translateX(-50%) translateY(-50%) rotateY(-90deg) translateZ(125px);
+}
+
+div.face5 {
+  width: 250px;
+  height:250px;
+  background-image: url(https://chonc268.github.io/img/square/cube5.png);
+  transform: translateX(-50%) translateY(-50%) rotateX(90deg) translateZ(125px);
+}
+
+div.face6 {
+  width: 250px;
+  height:250px;
+  background-image: url(https://chonc268.github.io/img/square/cube6.png);
+  transform: translateX(-50%) translateY(-50%) rotateY(-180deg) translateZ(125px);
+}
+
+
+div.scrollmenu {
+  position: fixed;
+  overflow: auto;
+  white-space: nowrap;
+  width: 1320px;
+  height: 55px;
+  margin-top:725px;
+  margin-left: 35px;
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
+
+div.scrollmenu a {
+  font-family: Arial,sans-serif;
+  display: inline-block;
+  font-size: 50px;
+  color: black;
+  text-align: center;
+  padding: 15px;
+  text-decoration: none;
+  line-height:10px;
+}
+
+div.scrollmenu a:hover {
+  color: #777;
 }
