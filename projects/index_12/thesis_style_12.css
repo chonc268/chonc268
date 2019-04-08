@@ -27,6 +27,9 @@ div.scrollmenu a:hover {
   color: #777;
 }
 
+
+
+
 body {
 font-family: Work Sans;
 font-size: 60px;
@@ -41,6 +44,7 @@ section.text {
   padding: 100px;
   background-color: white;
   position: relative;
+  height: 1000px;
 }
 
 section.text p {
@@ -49,4 +53,36 @@ section.text p {
 
 section.text a {
   color: black;
+}
+
+section.text div.rect1 {
+  position:absolute;
+  top: 100px;
+  right: 100px;
+  width: 250px;
+  height: 200px;
+  background-color: black;
+}
+
+section.text div.rect2 {
+  position:absolute;
+  top: 500px;
+  left: 30px;
+  width: 500px;
+  height: 100px;
+  background-color: black;
+}
+
+section.background {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+
+  background-image: url(https://chonc268.github.io/img/square/background_11_1.png);
+  background-size: cover;
+  background-position: center;
+
+  mix-blend-mode: screen
 }
