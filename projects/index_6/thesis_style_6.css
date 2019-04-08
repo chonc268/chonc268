@@ -1,19 +1,29 @@
-.link {
-  position: fixed;
-  margin-top:708px;
-  margin-left:583px;
+div.scrollmenu {
+  overflow: auto;
+  white-space: nowrap;
+  width: 1320px;
+  height: 55px;
+  margin-top:732px;
+  margin-left: 35px;
 }
 
-a {
-  text-decoration: none;
-  font-size:75px;
+::-webkit-scrollbar {
+    display: none;
+}
+
+div.scrollmenu a {
   font-family: Arial,sans-serif;
+  display: inline-block;
+  font-size: 50px;
   color: black;
-  opacity:0.5;
+  text-align: center;
+  padding: 15px;
+  text-decoration: none;
+  line-height:10px;
 }
 
-a:hover {
-  opacity:1;
+div.scrollmenu a:hover {
+  color: #777;
 }
 
 div.box {
@@ -23,7 +33,7 @@ div.box {
 }
 
 div.box1 {
-  top:93%;
+  top:90%;
   left:95%;
   background-color:#00ff00;
 }
@@ -49,7 +59,7 @@ div.box4 {
 }
 
 div.box5 {
-  top:93%;
+  top:90%;
   left:30%;
   background-color:#ff0000;
 
