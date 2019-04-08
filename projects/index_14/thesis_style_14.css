@@ -25,9 +25,11 @@ body {
 div.wilson1{
   background-image: url("https://chonc268.github.io/img/square/Touch%20Bar.png");
   background-position: 0 0;
-  background-size: auto 50px;
-  width: 50px;
-  height: 50px;
+  background-size: auto 100px;
+  width: 100px;
+  height: 100px;
+  margin:10px;
+  float:left;
 }
 div.wilson1:hover {
   animation: sad1 1.4s steps(50);
@@ -36,9 +38,11 @@ div.wilson1:hover {
 div.wilson2{
   background-image: url("https://chonc268.github.io/img/square/Touch%20Bar.png");
   background-position: 0 0;
-  background-size: auto 50px;
-  width: 50px;
-  height: 50px;
+  background-size: auto 100px;
+  width: 100px;
+  height: 100px;
+  margin:10px;
+  float:left;
 }
 div.wilson2:hover {
   animation: sad2 1.4s steps(50);
@@ -47,9 +51,11 @@ div.wilson2:hover {
 div.wilson3{
   background-image: url("https://chonc268.github.io/img/square/Touch%20Bar.png");
   background-position: 0 0;
-  background-size: auto 50px;
-  width: 50px;
-  height: 50px;
+  background-size: auto 100px;
+  width: 100px;
+  height: 100px;
+  margin:10px;
+  float:left;
 }
 div.wilson3:hover {
   animation: sad3 1.4s steps(50);
@@ -58,9 +64,11 @@ div.wilson3:hover {
 div.wilson4{
   background-image: url("https://chonc268.github.io/img/square/Touch%20Bar.png");
   background-position: 0 0;
-  background-size: auto 50px;
-  width: 50px;
-  height: 50px;
+  background-size: auto 100px;
+  width: 100px;
+  height: 100px;
+  margin:10px;
+  float:left;
 }
 div.wilson4:hover {
   animation: sad4 1.4s steps(50);
