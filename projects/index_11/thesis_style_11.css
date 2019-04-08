@@ -1,46 +1,25 @@
 body {
+  font-size: 16px;
+  font-family: Arial;
+  line-height: 1.5s;
   background-color: black;
-  min-height: 100vh;
-  display: flex;
-  align-items: center;
-  justify-content: center;
+  color: white;
 }
 
-.card {
-  width: 90px;
-  height: 600px;
-  position: relative;
+h1 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  font-size: 20vmin;
+  transform: translate(-50%, -50%);
+}
+
+div.ball {
   background-color: white;
-  perspective: 800px;
-}
-
-.card img, .card div {
-  backface-visibility: hidden;
-  transition: transform 2s;
-}
-
-.card:hover img {
-  transform: rotateY(180deg);
-}
-
-.card div {
-  background-color: #ffffff;
-  color: #000000;
-
+  width: 200px;
+  height: 200px;
   position: absolute;
   top: 0;
   left: 0;
-  width: 900px;
-  height: 600px;
-  z-index: 1;
-
-  padding: 30px;
-  font-size: 40px;
-  font-family: Arial;
-
-  transform: rotateY(180deg);
-}
-
-.card:hover div {
-  transform: rotateY(360deg);
+  transform: translate(-50%, -50%);
 }
