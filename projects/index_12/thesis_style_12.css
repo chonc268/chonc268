@@ -28,31 +28,25 @@ div.scrollmenu a:hover {
 }
 
 body {
-  font-size: 16px;
-  font-family: Arial;
-  line-height: 1.5s;
-  background-color: black;
-  color: white;
+font-family: Work Sans;
+font-size: 60px;
+line-height: 1.25;
+
+background-color: white;
+color: black;
 }
 
-h1 {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  font-size: 20vmin;
-  transform: translate(-50%, -50%);
-}
-
-div.ball {
+section.text {
+  border: 100px solid black;
+  padding: 100px;
   background-color: white;
-  width: 200px;
-  height: 200px;
-  position: absolute;
-  top: 0;
-  left: 0;
-  transform: translate(-50%, -50%);
+  position: relative;
 }
 
-img {
-  width:100%;
+section.text p {
+  width: 70%;
+}
+
+section.text a {
+  color: black;
 }
