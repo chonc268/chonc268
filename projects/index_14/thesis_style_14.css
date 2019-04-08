@@ -1,29 +1,25 @@
-@keyframes sad1 {
-  0% {
-    background-position: 0 0;
-  }
-
-  100% {
-    background-position: -773px 0;
-  }
-}
-
 body {
   background-color: white;
+}
+
+@keyframes sad1 {
+  0% {background-position: 0 0;}
+  100% {background-position: -773px 0;}
 }
 
 @keyframes sad2 {
-  0% {
-    background-position: 0 0;
-  }
-
-  100% {
-    background-position: 773px 0;
-  }
+  0% {background-position: 0 0;}
+  100% {background-position: 773px 0;}
 }
 
-body {
-  background-color: white;
+@keyframes sad3 {
+  0% {background-position: 0 0;}
+  100% {background-position: -773px 0;}
+}
+
+@keyframes sad4 {
+  0% {background-position: 0 0;}
+  100% {background-position: 773px 0;}
 }
 
 div.wilson1{
@@ -33,6 +29,9 @@ div.wilson1{
   width: 50px;
   height: 50px;
 }
+div.wilson1:hover {
+  animation: sad1 1.4s steps(50);
+}
 
 div.wilson2{
   background-image: url("https://chonc268.github.io/img/square/Touch%20Bar.png");
@@ -41,11 +40,28 @@ div.wilson2{
   width: 50px;
   height: 50px;
 }
-
-div.wilson1:hover {
-  animation: sad1 1.4s steps(50);
-}
-
 div.wilson2:hover {
   animation: sad2 1.4s steps(50);
+}
+
+div.wilson3{
+  background-image: url("https://chonc268.github.io/img/square/Touch%20Bar.png");
+  background-position: 0 0;
+  background-size: auto 50px;
+  width: 50px;
+  height: 50px;
+}
+div.wilson3:hover {
+  animation: sad3 1.4s steps(50);
+}
+
+div.wilson4{
+  background-image: url("https://chonc268.github.io/img/square/Touch%20Bar.png");
+  background-position: 0 0;
+  background-size: auto 50px;
+  width: 50px;
+  height: 50px;
+}
+div.wilson4:hover {
+  animation: sad4 1.4s steps(50);
 }
