@@ -1,21 +1,17 @@
 body {
-  font-family: Arial;
-  line-height: 1.25;
-
-  background-color:white;
-  color: black
-
-  margin: 50px auto 100px auto;
-  width: 900px;
+  font-family: Futura,Trebuchet MS,Arial,sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  background-color: black;
+  overflow: hidden;
 }
 
 div.scrollmenu {
-  background-color: white;
   overflow: auto;
   white-space: nowrap;
   width: 1320px;
   height: 55px;
-  padding-top: 125px;
+  margin-top:732px;
   margin-left: 35px;
 }
 
@@ -38,22 +34,29 @@ div.scrollmenu a:hover {
   color: #777;
 }
 
-section.slideshow {
-  width: 900px;
-  height: 600px;
-  cursor: pointer;
-  position: relative;
+img {
+  position: fixed;
+  width: 50%;
+  height: 50%;
+  z-index:-1;
 }
 
-section.slideshow img {
-  position: absolute;
+img.square1 {
   top: 0;
   left: 0;
-  width: 900px;
-  height: 600px;
-  z-index: 0;
 }
 
-section.slideshow img:first-child {
-  z-index: 1;
+img.square2 {
+  top: 0;
+  right: 0;
+}
+
+img.square3 {
+  bottom: 0;
+  left: 0;
+}
+
+img.square4 {
+  bottom: 0;
+  right: 0;
 }

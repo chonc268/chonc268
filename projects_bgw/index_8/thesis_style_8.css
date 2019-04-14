@@ -1,0 +1,56 @@
+div.scrollmenu {
+  position: fixed;
+  overflow: auto;
+  white-space: nowrap;
+  width: 1320px;
+  height: 55px;
+  margin-top:725px;
+  margin-left: 36px;
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
+
+div.scrollmenu a {
+  font-family: Arial,sans-serif;
+  display: inline-block;
+  font-size: 50px;
+  color: black;
+  text-align: center;
+  padding: 15px;
+  text-decoration: none;
+  line-height:10px;
+}
+
+div.scrollmenu a:hover {
+  color: #777;
+}
+
+body {
+  background-color: white;
+  color: white;
+  overflow: hidden;
+  z-index:-1;
+  overflow: hidden;
+}
+
+header {
+  position: fixed;
+  top: 30px;
+  left: 40px;
+  z-index: 1;
+}
+
+@keyframes fadein {
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+}
+
+img {
+  position: absolute;
+  top: 500px;
+  left: 400px;
+  transform: translate(-50%, -50%) scale(0.5) rotate(10deg);
+  animation:fadein 0.5s;
+}

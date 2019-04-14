@@ -1,0 +1,105 @@
+div.scrollmenu {
+  position:absolute;
+  z-index: 1;
+  overflow: auto;
+  white-space: nowrap;
+  width: 1320px;
+  height: 55px;
+  margin-top: -105px;
+  margin-left: 36px;
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
+
+div.scrollmenu a {
+  font-family: Arial,sans-serif;
+  display: inline-block;
+  font-size: 50px;
+  z-index: 1;
+  color: black;
+  text-align: center;
+  padding: 15px;
+  text-decoration: none;
+  line-height:10px;
+}
+
+div.scrollmenu a:hover {
+  color: #777;
+}
+
+body {
+  font-size: 16px;
+  font-family: Arial;
+  line-height: 1.5s;
+  background-color: white;
+  color: black;
+  overflow: hidden;
+}
+
+h1 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  font-size: 20vmin;
+  transform: translate(-50%, -50%);
+}
+
+div.ball {
+  background-color: black;
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  transform: translate(-50%, -50%);
+}
+
+img {
+  width:1000px;
+  height:100px;
+}
+
+body {
+font-family: Work Sans;
+font-size: 60px;
+line-height: 1.25;
+
+background-color: white;
+color: black;
+}
+
+section.text {
+  background-color: white;
+  position: relative;
+  height: 1000px;
+  width: 2000px;
+  top: -100px;
+  left: -100px;
+}
+
+section.text p {
+  width: 70%;
+}
+
+section.text a {
+  color: white;
+}
+
+
+section.background {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+
+  background-image: url("https://media.giphy.com/media/dJehV99C8o479L1SGp/giphy.gif");
+  background-size: cover;
+  background-position: center;
+
+  mix-blend-mode: screen
+}
+
+
